@@ -1,8 +1,8 @@
 <%= form_for @trip do |f| %>
 <%= f.label :traveler %>
-<%= f.collection_select :traveler_id, @travelers, :id, :username %>
+<%= f.collection_select :traveler_id, @travelers.order('username ASC'), :id, :username %>
 <%= f.label :destination %>
-<%= f.collection_select :destination_id, @destinations, :id, :city_name %>
+<%= f.collection_select :destination_id, @destinations.order('city_name ASC'), :id, :city_name %>
 <%= f.label :name %>
 <%= f.text_field :name %>
 <%= f.submit %>

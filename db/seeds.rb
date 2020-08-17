@@ -15,11 +15,11 @@ Traveler.destroy_all
 puts "creating things"
 
 70.times do
-Destination.create(city_name: Faker::Address.city, safety_rating: rand(0..50))
+Destination.create(city_name: Faker::Address.unique.city, safety_rating: rand(0..50))
 end
 
 50.times do
-Traveler.create(username: Faker::FunnyName.name, dob: Faker::Date.birthday(min_age: 18, max_age: 105), password_digest: Faker::IDNumber.brazilian_citizen_number, about_me: Faker::Hipster.sentences)
+Traveler.create(username: Faker::FunnyName.unique.name, dob: Faker::Date.birthday(min_age: 18, max_age: 105), password_digest: Faker::IDNumber.brazilian_citizen_number, about_me: Faker::Hipster.sentence)
 end
 
 25.times do
