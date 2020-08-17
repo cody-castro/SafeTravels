@@ -1,0 +1,15 @@
+<h1><%= @traveler.username %></h1>
+
+<strong>Date Of Birth:</strong> <%= @traveler.dob %><br>
+<strong>About Me:</strong><br>
+<%= @traveler.about_me %>
+
+
+<h2>My Trips</h2>
+<% if @traveler.trips.count > 0%>
+    <% @traveler.trips.each do |trip| %>
+        <p><%= link_to trip.name, trip_path(trip) %></p>
+    <% end%>
+   <% else %>
+   You have no destinations <%= link_to "Find destination", destinations_path %>
+<% end%>

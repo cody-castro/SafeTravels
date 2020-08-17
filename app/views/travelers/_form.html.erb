@@ -1,0 +1,13 @@
+<%= form_for @traveler do |f| %>
+    <%= f.label :username %>
+    <%= f.text_field :username %><br>
+    <%= f.label :Date_Of_Birth %>
+    <%= f.text_field :dob %><br>
+
+<%= f.label :password %>
+    <%= f.password_field :password_digest %><br>
+<%= f.label :about_me %>
+    <%= f.text_area :about_me %><br>
+    <%= f.submit %>
+    <% end%>
+
