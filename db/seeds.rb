@@ -15,7 +15,7 @@ Traveler.destroy_all
 puts "creating things"
 
 70.times do
-Destination.create(city_name: Faker::Address.unique.city, safety_rating: rand(0..50))
+Destination.create(city_name: Faker::Address.unique.city, lgbtq: rand(0..50), medcial: rand(0..50), overall: rand(0..50), physical_harm: rand(0..50), political_freedom: rand(0..50), theft: rand(0..50), women:rand(0..50))
 end
 
 50.times do
