@@ -1,0 +1,4457 @@
+{
+  "data": [
+    {
+
+      "subType": "CITY",
+      "name": "Bangalore",
+      "geoCode": {
+        "latitude": 12.971599,
+        "longitude": 77.594563
+      },
+      "safetyScores": {
+        "lgbtq": 66,
+        "medical": 81,
+        "overall": 66,
+        "physicalHarm": 63,
+        "politicalFreedom": 70,
+        "theft": 59,
+        "women": 57
+      }
+    },
+    {
+
+      "subType": "CITY",
+      "name": "Barcelona",
+      "geoCode": {
+        "latitude": 41.385064,
+        "longitude": 2.173404
+      },
+      "safetyScores": {
+        "lgbtq": 39,
+        "medical": 0,
+        "overall": 45,
+        "physicalHarm": 36,
+        "politicalFreedom": 50,
+        "theft": 44,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Antiga Esquerra de l'Eixample (Barcelona)",
+      "geoCode": {
+        "latitude": 41.3885573,
+        "longitude": 2.1573033
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Baix Guinardó (Barcelona)",
+      "geoCode": {
+        "latitude": 41.412131,
+        "longitude": 2.1683571
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Barceloneta (Barcelona)",
+      "geoCode": {
+        "latitude": 41.380894,
+        "longitude": 2.189385
+      },
+      "safetyScores": {
+        "lgbtq": 42,
+        "medical": 0,
+        "overall": 47,
+        "physicalHarm": 39,
+        "politicalFreedom": 50,
+        "theft": 49,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Can Baró (Barcelona)",
+      "geoCode": {
+        "latitude": 41.4172284,
+        "longitude": 2.163444
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Diagonal Mar i el Front Marítim del Poblenou (Barcelona)",
+      "geoCode": {
+        "latitude": 41.4074666,
+        "longitude": 2.2162882
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 45,
+        "physicalHarm": 35,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "El Besòs i el Maresme (Barcelona)",
+      "geoCode": {
+        "latitude": 41.413747,
+        "longitude": 2.2150586
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 45,
+        "physicalHarm": 35,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "El Born (Barcelona)",
+      "geoCode": {
+        "latitude": 41.384728,
+        "longitude": 2.18286
+      },
+      "safetyScores": {
+        "lgbtq": 42,
+        "medical": 0,
+        "overall": 47,
+        "physicalHarm": 39,
+        "politicalFreedom": 50,
+        "theft": 49,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "El Camp de l'Arpa del Clot (Barcelona)",
+      "geoCode": {
+        "latitude": 41.4118532,
+        "longitude": 2.1830997
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 45,
+        "physicalHarm": 35,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "El Camp d'en Grassot i Gràcia Nova (Barcelona)",
+      "geoCode": {
+        "latitude": 41.4046685,
+        "longitude": 2.1659005
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "El Clot (Barcelona)",
+      "geoCode": {
+        "latitude": 41.4097037,
+        "longitude": 2.1892366
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 45,
+        "physicalHarm": 35,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "El Coll (Barcelona)",
+      "geoCode": {
+        "latitude": 41.4175036,
+        "longitude": 2.1487078
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "El Fort Pienc (Barcelona)",
+      "geoCode": {
+        "latitude": 41.3981098,
+        "longitude": 2.181871
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "El Parc i la Llacuna del Poblenou (Barcelona)",
+      "geoCode": {
+        "latitude": 41.3991986,
+        "longitude": 2.1904728
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 45,
+        "physicalHarm": 35,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "El Poble Sec (Barcelona)",
+      "geoCode": {
+        "latitude": 41.37243,
+        "longitude": 2.162878
+      },
+      "safetyScores": {
+        "lgbtq": 41,
+        "medical": 0,
+        "overall": 48,
+        "physicalHarm": 39,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 43
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "El Poblenou  (Barcelona)",
+      "geoCode": {
+        "latitude": 41.397737,
+        "longitude": 2.201535
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 45,
+        "physicalHarm": 35,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "El Putget i Farró (Barcelona)",
+      "geoCode": {
+        "latitude": 41.4075841,
+        "longitude": 2.1437968
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "El Raval (Barcelona)",
+      "geoCode": {
+        "latitude": 41.379716,
+        "longitude": 2.168184
+      },
+      "safetyScores": {
+        "lgbtq": 46,
+        "medical": 0,
+        "overall": 49,
+        "physicalHarm": 44,
+        "politicalFreedom": 50,
+        "theft": 51,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Gothic Quarter (Barcelona)",
+      "geoCode": {
+        "latitude": 41.381906,
+        "longitude": 2.178185
+      },
+      "safetyScores": {
+        "lgbtq": 49,
+        "medical": 0,
+        "overall": 51,
+        "physicalHarm": 46,
+        "politicalFreedom": 50,
+        "theft": 55,
+        "women": 35
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Gràcia (Barcelona)",
+      "geoCode": {
+        "latitude": 41.409775,
+        "longitude": 2.15392
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Hostafrancs (Barcelona)",
+      "geoCode": {
+        "latitude": 41.3752223,
+        "longitude": 2.1451349
+      },
+      "safetyScores": {
+        "lgbtq": 41,
+        "medical": 0,
+        "overall": 48,
+        "physicalHarm": 39,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 43
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "La Bordeta (Barcelona)",
+      "geoCode": {
+        "latitude": 41.3676592,
+        "longitude": 2.1364314
+      },
+      "safetyScores": {
+        "lgbtq": 41,
+        "medical": 0,
+        "overall": 48,
+        "physicalHarm": 39,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 43
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "La Dreta de l'Eixample (Barcelona)",
+      "geoCode": {
+        "latitude": 41.3963097,
+        "longitude": 2.1653831
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "La Font de la Guatlla (Barcelona)",
+      "geoCode": {
+        "latitude": 41.3693898,
+        "longitude": 2.1444107
+      },
+      "safetyScores": {
+        "lgbtq": 41,
+        "medical": 0,
+        "overall": 48,
+        "physicalHarm": 39,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 43
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "La Marina de Port (Barcelona)",
+      "geoCode": {
+        "latitude": 41.3588692,
+        "longitude": 2.1376589
+      },
+      "safetyScores": {
+        "lgbtq": 41,
+        "medical": 0,
+        "overall": 48,
+        "physicalHarm": 39,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 43
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "La Marina del Prat Vermell (Barcelona)",
+      "geoCode": {
+        "latitude": 41.3525378,
+        "longitude": 2.1413415
+      },
+      "safetyScores": {
+        "lgbtq": 41,
+        "medical": 0,
+        "overall": 48,
+        "physicalHarm": 39,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 43
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "La Maternitat i Sant Ramon (Barcelona)",
+      "geoCode": {
+        "latitude": 41.3793585,
+        "longitude": 2.1131154
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "La Rambla (Barcelona)",
+      "geoCode": {
+        "latitude": 41.380654,
+        "longitude": 2.173848
+      },
+      "safetyScores": {
+        "lgbtq": 48,
+        "medical": 0,
+        "overall": 50,
+        "physicalHarm": 45,
+        "politicalFreedom": 50,
+        "theft": 55,
+        "women": 35
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "La Sagrada Familia (Barcelona)",
+      "geoCode": {
+        "latitude": 41.404484,
+        "longitude": 2.175728
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "La Salut (Barcelona)",
+      "geoCode": {
+        "latitude": 41.4124069,
+        "longitude": 2.1536193
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "La Vila Olímpica del Poblenou  (Barcelona)",
+      "geoCode": {
+        "latitude": 41.391595,
+        "longitude": 2.195389
+      },
+      "safetyScores": {
+        "lgbtq": 42,
+        "medical": 0,
+        "overall": 47,
+        "physicalHarm": 39,
+        "politicalFreedom": 50,
+        "theft": 49,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Les Corts (Barcelona)",
+      "geoCode": {
+        "latitude": 41.38349,
+        "longitude": 2.116797
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Les Tres Torres (Barcelona)",
+      "geoCode": {
+        "latitude": 41.3977987,
+        "longitude": 2.1315217
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Navas (Barcelona)",
+      "geoCode": {
+        "latitude": 41.4167653,
+        "longitude": 2.188015
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 45,
+        "physicalHarm": 35,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Nova Esquerra de l'Eixample (Barcelona)",
+      "geoCode": {
+        "latitude": 41.3837327,
+        "longitude": 2.14748
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Provençals del Poblenou (Barcelona)",
+      "geoCode": {
+        "latitude": 41.4114796,
+        "longitude": 2.202764
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 45,
+        "physicalHarm": 35,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Sant Antoni (Barcelona)",
+      "geoCode": {
+        "latitude": 41.3772662,
+        "longitude": 2.1585314
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 45,
+        "physicalHarm": 35,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Sant Gervasi-Bonanova (Barcelona)",
+      "geoCode": {
+        "latitude": 41.4091308,
+        "longitude": 2.1278398
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Sant Gervasi-Galvany (Barcelona)",
+      "geoCode": {
+        "latitude": 41.3988459,
+        "longitude": 2.1425692
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Sant Martí (Barcelona)",
+      "geoCode": {
+        "latitude": 41.4052928,
+        "longitude": 2.1990763
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 45,
+        "physicalHarm": 35,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Sant Martí de Provençals (Barcelona)",
+      "geoCode": {
+        "latitude": 41.4165785,
+        "longitude": 2.1978471
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 45,
+        "physicalHarm": 35,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Sant Pere (Barcelona)",
+      "geoCode": {
+        "latitude": 41.3868205,
+        "longitude": 2.1830997
+      },
+      "safetyScores": {
+        "lgbtq": 42,
+        "medical": 0,
+        "overall": 47,
+        "physicalHarm": 39,
+        "politicalFreedom": 50,
+        "theft": 49,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Sants-Badal (Barcelona)",
+      "geoCode": {
+        "latitude": 41.3753542,
+        "longitude": 2.1266126
+      },
+      "safetyScores": {
+        "lgbtq": 41,
+        "medical": 0,
+        "overall": 48,
+        "physicalHarm": 39,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 43
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Sants-Montjuïc (Barcelona)",
+      "geoCode": {
+        "latitude": 41.3635139,
+        "longitude": 2.1573033
+      },
+      "safetyScores": {
+        "lgbtq": 41,
+        "medical": 0,
+        "overall": 48,
+        "physicalHarm": 39,
+        "politicalFreedom": 50,
+        "theft": 43,
+        "women": 43
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Sarrià (Barcelona)",
+      "geoCode": {
+        "latitude": 41.3969043,
+        "longitude": 2.1203894
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Sarrià-St.Gervasi (Barcelona)",
+      "geoCode": {
+        "latitude": 41.396904,
+        "longitude": 2.120389
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "The Eixample (Barcelona)",
+      "geoCode": {
+        "latitude": 41.391843,
+        "longitude": 2.164197
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Vallcarca i els Penitents (Barcelona)",
+      "geoCode": {
+        "latitude": 41.415138,
+        "longitude": 2.1413415
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Vila de Gràcia (Barcelona)",
+      "geoCode": {
+        "latitude": 41.4035997,
+        "longitude": 2.1553129
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 44,
+        "physicalHarm": 34,
+        "politicalFreedom": 50,
+        "theft": 42,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "CITY",
+      "name": "Berlin",
+      "geoCode": {
+        "latitude": 52.519171,
+        "longitude": 13.406091
+      },
+      "safetyScores": {
+        "lgbtq": 34,
+        "medical": 0,
+        "overall": 35,
+        "physicalHarm": 33,
+        "politicalFreedom": 26,
+        "theft": 35,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Friedrichshain (Berlin)",
+      "geoCode": {
+        "latitude": 52.515824,
+        "longitude": 13.4539891
+      },
+      "safetyScores": {
+        "lgbtq": 29,
+        "medical": 0,
+        "overall": 34,
+        "physicalHarm": 33,
+        "politicalFreedom": 26,
+        "theft": 35,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Kreuzberg (Berlin)",
+      "geoCode": {
+        "latitude": 52.4983442,
+        "longitude": 13.4065791
+      },
+      "safetyScores": {
+        "lgbtq": 29,
+        "medical": 0,
+        "overall": 34,
+        "physicalHarm": 33,
+        "politicalFreedom": 26,
+        "theft": 35,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Mitte (Berlin)",
+      "geoCode": {
+        "latitude": 52.519444,
+        "longitude": 13.4066669
+      },
+      "safetyScores": {
+        "lgbtq": 38,
+        "medical": 0,
+        "overall": 37,
+        "physicalHarm": 38,
+        "politicalFreedom": 26,
+        "theft": 38,
+        "women": 38
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Parkviertel (Berlin)",
+      "geoCode": {
+        "latitude": 52.5372897,
+        "longitude": 13.3602743
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 37,
+        "physicalHarm": 36,
+        "politicalFreedom": 26,
+        "theft": 37,
+        "women": 37
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Prenzlauer Berg Nordwest (Berlin)",
+      "geoCode": {
+        "latitude": 52.5391787,
+        "longitude": 13.4242073
+      },
+      "safetyScores": {
+        "lgbtq": 31,
+        "medical": 0,
+        "overall": 35,
+        "physicalHarm": 35,
+        "politicalFreedom": 26,
+        "theft": 38,
+        "women": 36
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Prenzlauer Berg Ost (Berlin)",
+      "geoCode": {
+        "latitude": 52.5117538,
+        "longitude": 13.4409514
+      },
+      "safetyScores": {
+        "lgbtq": 32,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 35,
+        "politicalFreedom": 26,
+        "theft": 38,
+        "women": 36
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Regierungsviertel (Berlin)",
+      "geoCode": {
+        "latitude": 52.516351,
+        "longitude": 13.3774316
+      },
+      "safetyScores": {
+        "lgbtq": 44,
+        "medical": 0,
+        "overall": 42,
+        "physicalHarm": 44,
+        "politicalFreedom": 26,
+        "theft": 44,
+        "women": 45
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Tempelhofer Vorstadt (Berlin)",
+      "geoCode": {
+        "latitude": 52.4995669,
+        "longitude": 13.4314194
+      },
+      "safetyScores": {
+        "lgbtq": 36,
+        "medical": 0,
+        "overall": 37,
+        "physicalHarm": 36,
+        "politicalFreedom": 26,
+        "theft": 40,
+        "women": 36
+      }
+    },
+    {
+
+        "subType": "CITY",
+        "name": "Dallas",
+        "geoCode": {
+          "latitude": 32.78014,
+          "longitude": -96.800451
+        },
+        "safetyScores": {
+          "lgbtq": 51,
+          "medical": 70,
+          "overall": 50,
+          "physicalHarm": 50,
+          "politicalFreedom": 42,
+          "theft": 50,
+          "women": 35
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Arts District (Dallas)",
+        "geoCode": {
+          "latitude": 32.7897314,
+          "longitude": -96.7982616
+        },
+        "safetyScores": {
+          "lgbtq": 40,
+          "medical": 75,
+          "overall": 54,
+          "physicalHarm": 64,
+          "politicalFreedom": 45,
+          "theft": 60,
+          "women": 39
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Bishop Arts (Dallas)",
+        "geoCode": {
+          "latitude": 32.7472564,
+          "longitude": -96.8304102
+        },
+        "safetyScores": {
+          "lgbtq": 36,
+          "medical": 69,
+          "overall": 47,
+          "physicalHarm": 46,
+          "politicalFreedom": 42,
+          "theft": 53,
+          "women": 33
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Bryan Place (Dallas)",
+        "geoCode": {
+          "latitude": 32.7923822,
+          "longitude": -96.7882184
+        },
+        "safetyScores": {
+          "lgbtq": 64,
+          "medical": 75,
+          "overall": 58,
+          "physicalHarm": 64,
+          "politicalFreedom": 45,
+          "theft": 60,
+          "women": 39
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Cityplace (Dallas)",
+        "geoCode": {
+          "latitude": 32.8061317,
+          "longitude": -96.7935745
+        },
+        "safetyScores": {
+          "lgbtq": 63,
+          "medical": 74,
+          "overall": 57,
+          "physicalHarm": 63,
+          "politicalFreedom": 45,
+          "theft": 59,
+          "women": 39
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Deep Ellum (Dallas)",
+        "geoCode": {
+          "latitude": 32.7843924,
+          "longitude": -96.7801849
+        },
+        "safetyScores": {
+          "lgbtq": 63,
+          "medical": 74,
+          "overall": 57,
+          "physicalHarm": 63,
+          "politicalFreedom": 45,
+          "theft": 59,
+          "women": 39
+        }
+      },
+      {
+        "subType": "DISTRICT",
+        "name": "Downtown Dallas (Dallas)",
+        "geoCode": {
+          "latitude": 32.7790911,
+          "longitude": -96.8002704
+        },
+        "safetyScores": {
+          "lgbtq": 65,
+          "medical": 76,
+          "overall": 59,
+          "physicalHarm": 65,
+          "politicalFreedom": 45,
+          "theft": 61,
+          "women": 40
+        }
+      },
+      {
+        "subType": "DISTRICT",
+        "name": "Hollywood Heights (Dallas)",
+        "geoCode": {
+          "latitude": 32.8063685,
+          "longitude": -96.7401249
+        },
+        "safetyScores": {
+          "lgbtq": 58,
+          "medical": 73,
+          "overall": 54,
+          "physicalHarm": 56,
+          "politicalFreedom": 42,
+          "theft": 55,
+          "women": 37
+        }
+      },
+      {
+        "subType": "DISTRICT",
+        "name": "Junius Heights (Dallas)",
+        "geoCode": {
+          "latitude": 32.8061266,
+          "longitude": -96.7568138
+        },
+        "safetyScores": {
+          "lgbtq": 59,
+          "medical": 73,
+          "overall": 54,
+          "physicalHarm": 57,
+          "politicalFreedom": 42,
+          "theft": 56,
+          "women": 37
+        }
+      },
+      {
+        "subType": "DISTRICT",
+        "name": "Lake Cliff (Dallas)",
+        "geoCode": {
+          "latitude": 32.7566071,
+          "longitude": -96.8191194
+        },
+        "safetyScores": {
+          "lgbtq": 63,
+          "medical": 76,
+          "overall": 58,
+          "physicalHarm": 63,
+          "politicalFreedom": 45,
+          "theft": 59,
+          "women": 39
+        }
+      },
+      {
+        "subType": "DISTRICT",
+        "name": "Main Street (Dallas)",
+        "geoCode": {
+          "latitude": 32.7813791,
+          "longitude": -96.7969224
+        },
+        "safetyScores": {
+          "lgbtq": 55,
+          "medical": 66,
+          "overall": 49,
+          "physicalHarm": 54,
+          "politicalFreedom": 36,
+          "theft": 51,
+          "women": 30
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Munger Place (Dallas)",
+        "geoCode": {
+          "latitude": 32.7988527,
+          "longitude": -96.76523
+        },
+        "safetyScores": {
+          "lgbtq": 61,
+          "medical": 73,
+          "overall": 55,
+          "physicalHarm": 60,
+          "politicalFreedom": 43,
+          "theft": 57,
+          "women": 38
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "South Boulevard/Park Row (Dallas)",
+        "geoCode": {
+          "latitude": 32.7675694,
+          "longitude": -96.7731565
+        },
+        "safetyScores": {
+          "lgbtq": 68,
+          "medical": 78,
+          "overall": 62,
+          "physicalHarm": 67,
+          "politicalFreedom": 47,
+          "theft": 64,
+          "women": 46
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "South Dallas/Fair Park (Dallas)",
+        "geoCode": {
+          "latitude": 32.7793216,
+          "longitude": -96.7440467
+        },
+        "safetyScores": {
+          "lgbtq": 63,
+          "medical": 77,
+          "overall": 60,
+          "physicalHarm": 63,
+          "politicalFreedom": 50,
+          "theft": 60,
+          "women": 44
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Trinity Groves (Dallas)",
+        "geoCode": {
+          "latitude": 32.7782266,
+          "longitude": -96.8290704
+        },
+        "safetyScores": {
+          "lgbtq": 54,
+          "medical": 70,
+          "overall": 51,
+          "physicalHarm": 51,
+          "politicalFreedom": 44,
+          "theft": 51,
+          "women": 35
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Uptown Dallas (Dallas)",
+        "geoCode": {
+          "latitude": 32.8015565,
+          "longitude": -96.8002704
+        },
+        "safetyScores": {
+          "lgbtq": 63,
+          "medical": 74,
+          "overall": 57,
+          "physicalHarm": 63,
+          "politicalFreedom": 45,
+          "theft": 59,
+          "women": 39
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Victory Park (Dallas)",
+        "geoCode": {
+          "latitude": 32.7912192,
+          "longitude": -96.8096457
+        },
+        "safetyScores": {
+          "lgbtq": 62,
+          "medical": 74,
+          "overall": 56,
+          "physicalHarm": 61,
+          "politicalFreedom": 43,
+          "theft": 58,
+          "women": 39
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "West End (Dallas)",
+        "geoCode": {
+          "latitude": 32.7801316,
+          "longitude": -96.8069669
+        },
+        "safetyScores": {
+          "lgbtq": 48,
+          "medical": 66,
+          "overall": 42,
+          "physicalHarm": 47,
+          "politicalFreedom": 26,
+          "theft": 44,
+          "women": 22
+        }
+      },
+      {
+
+        "subType": "CITY",
+        "name": "London",
+        "geoCode": {
+          "latitude": 51.511214,
+          "longitude": -0.119824
+        },
+        "safetyScores": {
+          "lgbtq": 39,
+          "medical": 0,
+          "overall": 42,
+          "physicalHarm": 39,
+          "politicalFreedom": 26,
+          "theft": 36,
+          "women": 38
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Aldgate (London)",
+        "geoCode": {
+          "latitude": 51.5135133,
+          "longitude": -0.0767823
+        },
+        "safetyScores": {
+          "lgbtq": 35,
+          "medical": 0,
+          "overall": 38,
+          "physicalHarm": 34,
+          "politicalFreedom": 24,
+          "theft": 31,
+          "women": 31
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Barbican (London)",
+        "geoCode": {
+          "latitude": 51.5190925,
+          "longitude": -0.0940787
+        },
+        "safetyScores": {
+          "lgbtq": 35,
+          "medical": 0,
+          "overall": 38,
+          "physicalHarm": 34,
+          "politicalFreedom": 24,
+          "theft": 31,
+          "women": 31
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Bermondsey  (London)",
+        "geoCode": {
+          "latitude": 51.4985821,
+          "longitude": -0.0691276
+        },
+        "safetyScores": {
+          "lgbtq": 38,
+          "medical": 0,
+          "overall": 41,
+          "physicalHarm": 37,
+          "politicalFreedom": 27,
+          "theft": 35,
+          "women": 37
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Big Ben (London)",
+        "geoCode": {
+          "latitude": 51.50079,
+          "longitude": -0.118251
+        },
+        "safetyScores": {
+          "lgbtq": 42,
+          "medical": 0,
+          "overall": 44,
+          "physicalHarm": 42,
+          "politicalFreedom": 27,
+          "theft": 39,
+          "women": 42
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Blackfriars (London)",
+        "geoCode": {
+          "latitude": 51.5113976,
+          "longitude": -0.103214
+        },
+        "safetyScores": {
+          "lgbtq": 35,
+          "medical": 0,
+          "overall": 38,
+          "physicalHarm": 34,
+          "politicalFreedom": 24,
+          "theft": 31,
+          "women": 31
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Bloomsbury (London)",
+        "geoCode": {
+          "latitude": 51.519205,
+          "longitude": -0.124262
+        },
+        "safetyScores": {
+          "lgbtq": 42,
+          "medical": 0,
+          "overall": 44,
+          "physicalHarm": 42,
+          "politicalFreedom": 27,
+          "theft": 39,
+          "women": 42
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Bond Street (London)",
+        "geoCode": {
+          "latitude": 51.5120719,
+          "longitude": -0.144223
+        },
+        "safetyScores": {
+          "lgbtq": 42,
+          "medical": 0,
+          "overall": 44,
+          "physicalHarm": 42,
+          "politicalFreedom": 27,
+          "theft": 39,
+          "women": 42
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Borough Market (London)",
+        "geoCode": {
+          "latitude": 51.5054792,
+          "longitude": -0.0907513
+        },
+        "safetyScores": {
+          "lgbtq": 39,
+          "medical": 0,
+          "overall": 42,
+          "physicalHarm": 38,
+          "politicalFreedom": 27,
+          "theft": 36,
+          "women": 38
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Buckingham Palace (London)",
+        "geoCode": {
+          "latitude": 51.501364,
+          "longitude": -0.14189
+        },
+        "safetyScores": {
+          "lgbtq": 42,
+          "medical": 0,
+          "overall": 44,
+          "physicalHarm": 42,
+          "politicalFreedom": 27,
+          "theft": 39,
+          "women": 42
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Cannon Street (London)",
+        "geoCode": {
+          "latitude": 51.5119913,
+          "longitude": -0.0920045
+        },
+        "safetyScores": {
+          "lgbtq": 35,
+          "medical": 0,
+          "overall": 38,
+          "physicalHarm": 34,
+          "politicalFreedom": 24,
+          "theft": 31,
+          "women": 31
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Chancery Lane (London)",
+        "geoCode": {
+          "latitude": 51.516371,
+          "longitude": -0.1122128
+        },
+        "safetyScores": {
+          "lgbtq": 35,
+          "medical": 0,
+          "overall": 38,
+          "physicalHarm": 34,
+          "politicalFreedom": 24,
+          "theft": 31,
+          "women": 31
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Charing Cross (London)",
+        "geoCode": {
+          "latitude": 51.5073,
+          "longitude": -0.12755
+        },
+        "safetyScores": {
+          "lgbtq": 42,
+          "medical": 0,
+          "overall": 44,
+          "physicalHarm": 42,
+          "politicalFreedom": 27,
+          "theft": 39,
+          "women": 42
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "City of London (London)",
+        "geoCode": {
+          "latitude": 51.512429,
+          "longitude": -0.089005
+        },
+        "safetyScores": {
+          "lgbtq": 35,
+          "medical": 0,
+          "overall": 38,
+          "physicalHarm": 34,
+          "politicalFreedom": 24,
+          "theft": 31,
+          "women": 31
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "City of Westminster (London)",
+        "geoCode": {
+          "latitude": 51.5001754,
+          "longitude": -0.1332326
+        },
+        "safetyScores": {
+          "lgbtq": 44,
+          "medical": 0,
+          "overall": 45,
+          "physicalHarm": 44,
+          "politicalFreedom": 27,
+          "theft": 41,
+          "women": 44
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Covent Garden (London)",
+        "geoCode": {
+          "latitude": 51.5117321,
+          "longitude": -0.1232697
+        },
+        "safetyScores": {
+          "lgbtq": 42,
+          "medical": 0,
+          "overall": 44,
+          "physicalHarm": 42,
+          "politicalFreedom": 27,
+          "theft": 39,
+          "women": 42
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Edgware Road (London)",
+        "geoCode": {
+          "latitude": 51.5189412,
+          "longitude": -0.1685655
+        },
+        "safetyScores": {
+          "lgbtq": 42,
+          "medical": 0,
+          "overall": 44,
+          "physicalHarm": 42,
+          "politicalFreedom": 27,
+          "theft": 39,
+          "women": 42
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Elephant & Castle (London)",
+        "geoCode": {
+          "latitude": 51.4944216,
+          "longitude": -0.1007194
+        },
+        "safetyScores": {
+          "lgbtq": 39,
+          "medical": 0,
+          "overall": 42,
+          "physicalHarm": 38,
+          "politicalFreedom": 27,
+          "theft": 36,
+          "women": 38
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Goodge St (London)",
+        "geoCode": {
+          "latitude": 51.5195818,
+          "longitude": -0.1352145
+        },
+        "safetyScores": {
+          "lgbtq": 35,
+          "medical": 0,
+          "overall": 38,
+          "physicalHarm": 34,
+          "politicalFreedom": 24,
+          "theft": 31,
+          "women": 31
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Great Portland Street (London)",
+        "geoCode": {
+          "latitude": 51.5195791,
+          "longitude": -0.1424882
+        },
+        "safetyScores": {
+          "lgbtq": 42,
+          "medical": 0,
+          "overall": 44,
+          "physicalHarm": 42,
+          "politicalFreedom": 27,
+          "theft": 39,
+          "women": 42
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Holborn (London)",
+        "geoCode": {
+          "latitude": 51.5172619,
+          "longitude": -0.1184757
+        },
+        "safetyScores": {
+          "lgbtq": 35,
+          "medical": 0,
+          "overall": 38,
+          "physicalHarm": 34,
+          "politicalFreedom": 24,
+          "theft": 31,
+          "women": 31
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Hyde Park Corner (London)",
+        "geoCode": {
+          "latitude": 51.5029658,
+          "longitude": -0.152723
+        },
+        "safetyScores": {
+          "lgbtq": 44,
+          "medical": 0,
+          "overall": 45,
+          "physicalHarm": 44,
+          "politicalFreedom": 27,
+          "theft": 41,
+          "women": 44
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Kennington (London)",
+        "geoCode": {
+          "latitude": 51.4879638,
+          "longitude": -0.1115584
+        },
+        "safetyScores": {
+          "lgbtq": 39,
+          "medical": 0,
+          "overall": 42,
+          "physicalHarm": 38,
+          "politicalFreedom": 27,
+          "theft": 36,
+          "women": 38
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Knightsbridge (London)",
+        "geoCode": {
+          "latitude": 51.4991195,
+          "longitude": -0.1644394
+        },
+        "safetyScores": {
+          "lgbtq": 44,
+          "medical": 0,
+          "overall": 45,
+          "physicalHarm": 44,
+          "politicalFreedom": 24,
+          "theft": 41,
+          "women": 44
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Lambeth (London)",
+        "geoCode": {
+          "latitude": 51.4935082,
+          "longitude": -0.1178424
+        },
+        "safetyScores": {
+          "lgbtq": 41,
+          "medical": 0,
+          "overall": 43,
+          "physicalHarm": 40,
+          "politicalFreedom": 27,
+          "theft": 38,
+          "women": 40
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Leadenhall Market (London)",
+        "geoCode": {
+          "latitude": 51.5128029,
+          "longitude": -0.0834821
+        },
+        "safetyScores": {
+          "lgbtq": 37,
+          "medical": 0,
+          "overall": 39,
+          "physicalHarm": 36,
+          "politicalFreedom": 24,
+          "theft": 34,
+          "women": 31
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Leicester Square (London)",
+        "geoCode": {
+          "latitude": 51.510478,
+          "longitude": -0.1300343
+        },
+        "safetyScores": {
+          "lgbtq": 44,
+          "medical": 0,
+          "overall": 45,
+          "physicalHarm": 44,
+          "politicalFreedom": 27,
+          "theft": 41,
+          "women": 44
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Liverpool St (London)",
+        "geoCode": {
+          "latitude": 51.5175794,
+          "longitude": -0.0830363
+        },
+        "safetyScores": {
+          "lgbtq": 35,
+          "medical": 0,
+          "overall": 38,
+          "physicalHarm": 34,
+          "politicalFreedom": 24,
+          "theft": 31,
+          "women": 31
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "London Bridge (London)",
+        "geoCode": {
+          "latitude": 51.5078788,
+          "longitude": -0.0877321
+        },
+        "safetyScores": {
+          "lgbtq": 39,
+          "medical": 0,
+          "overall": 42,
+          "physicalHarm": 38,
+          "politicalFreedom": 27,
+          "theft": 36,
+          "women": 38
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Mansion House (London)",
+        "geoCode": {
+          "latitude": 51.5120758,
+          "longitude": -0.0940433
+        },
+        "safetyScores": {
+          "lgbtq": 35,
+          "medical": 0,
+          "overall": 38,
+          "physicalHarm": 34,
+          "politicalFreedom": 24,
+          "theft": 31,
+          "women": 31
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Marble Arch (London)",
+        "geoCode": {
+          "latitude": 51.5131099,
+          "longitude": -0.1589148
+        },
+        "safetyScores": {
+          "lgbtq": 42,
+          "medical": 0,
+          "overall": 44,
+          "physicalHarm": 42,
+          "politicalFreedom": 27,
+          "theft": 39,
+          "women": 42
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Marylebone (London)",
+        "geoCode": {
+          "latitude": 51.5188746,
+          "longitude": -0.1498955
+        },
+        "safetyScores": {
+          "lgbtq": 48,
+          "medical": 0,
+          "overall": 48,
+          "physicalHarm": 48,
+          "politicalFreedom": 27,
+          "theft": 45,
+          "women": 48
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Mayfair  (London)",
+        "geoCode": {
+          "latitude": 51.5116269,
+          "longitude": -0.147806
+        },
+        "safetyScores": {
+          "lgbtq": 42,
+          "medical": 0,
+          "overall": 44,
+          "physicalHarm": 42,
+          "politicalFreedom": 27,
+          "theft": 39,
+          "women": 42
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Monument (London)",
+        "geoCode": {
+          "latitude": 51.5108688,
+          "longitude": -0.0865915
+        },
+        "safetyScores": {
+          "lgbtq": 35,
+          "medical": 0,
+          "overall": 38,
+          "physicalHarm": 34,
+          "politicalFreedom": 24,
+          "theft": 31,
+          "women": 31
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Moorgate (London)",
+        "geoCode": {
+          "latitude": 51.5170595,
+          "longitude": -0.088824
+        },
+        "safetyScores": {
+          "lgbtq": 35,
+          "medical": 0,
+          "overall": 38,
+          "physicalHarm": 34,
+          "politicalFreedom": 24,
+          "theft": 31,
+          "women": 31
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Old Spitalfields Market (London)",
+        "geoCode": {
+          "latitude": 51.5196407,
+          "longitude": -0.0753481
+        },
+        "safetyScores": {
+          "lgbtq": 37,
+          "medical": 0,
+          "overall": 39,
+          "physicalHarm": 36,
+          "politicalFreedom": 24,
+          "theft": 34,
+          "women": 31
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Pimlico (London)",
+        "geoCode": {
+          "latitude": 51.490744,
+          "longitude": -0.1403619
+        },
+        "safetyScores": {
+          "lgbtq": 42,
+          "medical": 0,
+          "overall": 44,
+          "physicalHarm": 42,
+          "politicalFreedom": 27,
+          "theft": 39,
+          "women": 42
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Sloane Square (London)",
+        "geoCode": {
+          "latitude": 51.4923695,
+          "longitude": -0.1570867
+        },
+        "safetyScores": {
+          "lgbtq": 42,
+          "medical": 0,
+          "overall": 44,
+          "physicalHarm": 42,
+          "politicalFreedom": 27,
+          "theft": 39,
+          "women": 42
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Soho  (London)",
+        "geoCode": {
+          "latitude": 51.5136143,
+          "longitude": -0.1365486
+        },
+        "safetyScores": {
+          "lgbtq": 42,
+          "medical": 0,
+          "overall": 44,
+          "physicalHarm": 42,
+          "politicalFreedom": 27,
+          "theft": 39,
+          "women": 42
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "South Bank  (London)",
+        "geoCode": {
+          "latitude": 51.5071588,
+          "longitude": -0.1154861
+        },
+        "safetyScores": {
+          "lgbtq": 39,
+          "medical": 0,
+          "overall": 42,
+          "physicalHarm": 38,
+          "politicalFreedom": 27,
+          "theft": 36,
+          "women": 38
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Southwark (London)",
+        "geoCode": {
+          "latitude": 51.502781,
+          "longitude": -0.087738
+        },
+        "safetyScores": {
+          "lgbtq": 40,
+          "medical": 0,
+          "overall": 42,
+          "physicalHarm": 39,
+          "politicalFreedom": 27,
+          "theft": 37,
+          "women": 39
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "St. James's Park (London)",
+        "geoCode": {
+          "latitude": 51.5024597,
+          "longitude": -0.1348109
+        },
+        "safetyScores": {
+          "lgbtq": 49,
+          "medical": 0,
+          "overall": 49,
+          "physicalHarm": 49,
+          "politicalFreedom": 27,
+          "theft": 46,
+          "women": 49
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "St. Paul's (London)",
+        "geoCode": {
+          "latitude": 51.5148788,
+          "longitude": -0.0975213
+        },
+        "safetyScores": {
+          "lgbtq": 35,
+          "medical": 0,
+          "overall": 38,
+          "physicalHarm": 34,
+          "politicalFreedom": 24,
+          "theft": 31,
+          "women": 31
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "St. Paul's Churchyard (London)",
+        "geoCode": {
+          "latitude": 51.51327,
+          "longitude": -0.0988692
+        },
+        "safetyScores": {
+          "lgbtq": 35,
+          "medical": 0,
+          "overall": 38,
+          "physicalHarm": 34,
+          "politicalFreedom": 24,
+          "theft": 31,
+          "women": 31
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Temple (London)",
+        "geoCode": {
+          "latitude": 51.5123032,
+          "longitude": -0.1110459
+        },
+        "safetyScores": {
+          "lgbtq": 42,
+          "medical": 0,
+          "overall": 44,
+          "physicalHarm": 42,
+          "politicalFreedom": 27,
+          "theft": 39,
+          "women": 42
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Tottenham Court Road (London)",
+        "geoCode": {
+          "latitude": 51.516449,
+          "longitude": -0.1304144
+        },
+        "safetyScores": {
+          "lgbtq": 42,
+          "medical": 0,
+          "overall": 44,
+          "physicalHarm": 42,
+          "politicalFreedom": 27,
+          "theft": 39,
+          "women": 42
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Tower Bridge (London)",
+        "geoCode": {
+          "latitude": 51.5041673,
+          "longitude": -0.0762713
+        },
+        "safetyScores": {
+          "lgbtq": 39,
+          "medical": 0,
+          "overall": 42,
+          "physicalHarm": 38,
+          "politicalFreedom": 27,
+          "theft": 36,
+          "women": 38
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Tower Hill (London)",
+        "geoCode": {
+          "latitude": 51.5095596,
+          "longitude": -0.0759771
+        },
+        "safetyScores": {
+          "lgbtq": 41,
+          "medical": 0,
+          "overall": 43,
+          "physicalHarm": 40,
+          "politicalFreedom": 27,
+          "theft": 38,
+          "women": 40
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Vauxhall (London)",
+        "geoCode": {
+          "latitude": 51.4886163,
+          "longitude": -0.1207145
+        },
+        "safetyScores": {
+          "lgbtq": 40,
+          "medical": 0,
+          "overall": 42,
+          "physicalHarm": 39,
+          "politicalFreedom": 27,
+          "theft": 37,
+          "women": 39
+        }
+      },
+      {
+
+        "subType": "DISTRICT",
+        "name": "Victoria (London)",
+        "geoCode": {
+          "latitude": 51.4960892,
+          "longitude": -0.1420022
+        },
+        "safetyScores": {
+          "lgbtq": 42,
+          "medical": 0,
+          "overall": 44,
+          "physicalHarm": 42,
+          "politicalFreedom": 27,
+          "theft": 39,
+          "women": 42
+        }
+      },
+      {
+
+      "subType": "CITY",
+      "name": "New York",
+      "geoCode": {
+        "latitude": 40.755653,
+        "longitude": -73.985303
+      },
+      "safetyScores": {
+        "lgbtq": 35,
+        "medical": 73,
+        "overall": 39,
+        "physicalHarm": 30,
+        "politicalFreedom": 40,
+        "theft": 27,
+        "women": 26
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Brooklyn-DUMBO (New York)",
+      "geoCode": {
+        "latitude": 40.703164,
+        "longitude": -73.989886
+      },
+      "safetyScores": {
+        "lgbtq": 48,
+        "medical": 78,
+        "overall": 50,
+        "physicalHarm": 44,
+        "politicalFreedom": 58,
+        "theft": 38,
+        "women": 36
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Brooklyn-Williamsburg (New York)",
+      "geoCode": {
+        "latitude": 40.708497,
+        "longitude": -73.958836
+      },
+      "safetyScores": {
+        "lgbtq": 32,
+        "medical": 79,
+        "overall": 37,
+        "physicalHarm": 27,
+        "politicalFreedom": 36,
+        "theft": 24,
+        "women": 23
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan - NoHo (New York)",
+      "geoCode": {
+        "latitude": 40.728726,
+        "longitude": -73.992879
+      },
+      "safetyScores": {
+        "lgbtq": 33,
+        "medical": 68,
+        "overall": 36,
+        "physicalHarm": 28,
+        "politicalFreedom": 41,
+        "theft": 22,
+        "women": 23
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Alphabet City (New York)",
+      "geoCode": {
+        "latitude": 40.722701,
+        "longitude": -73.98156
+      },
+      "safetyScores": {
+        "lgbtq": 33,
+        "medical": 74,
+        "overall": 39,
+        "physicalHarm": 28,
+        "politicalFreedom": 44,
+        "theft": 27,
+        "women": 26
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Battery Park City (New York)",
+      "geoCode": {
+        "latitude": 40.710125,
+        "longitude": -74.016518
+      },
+      "safetyScores": {
+        "lgbtq": 33,
+        "medical": 66,
+        "overall": 36,
+        "physicalHarm": 28,
+        "politicalFreedom": 41,
+        "theft": 22,
+        "women": 23
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Battery Park-South Ferry (New York)",
+      "geoCode": {
+        "latitude": 40.701862,
+        "longitude": -74.013841
+      },
+      "safetyScores": {
+        "lgbtq": 34,
+        "medical": 68,
+        "overall": 37,
+        "physicalHarm": 29,
+        "politicalFreedom": 43,
+        "theft": 24,
+        "women": 25
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Chelsea (New York)",
+      "geoCode": {
+        "latitude": 40.744879,
+        "longitude": -73.997589
+      },
+      "safetyScores": {
+        "lgbtq": 32,
+        "medical": 69,
+        "overall": 37,
+        "physicalHarm": 26,
+        "politicalFreedom": 44,
+        "theft": 25,
+        "women": 26
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Chinatown (New York)",
+      "geoCode": {
+        "latitude": 40.71589,
+        "longitude": -73.997223
+      },
+      "safetyScores": {
+        "lgbtq": 32,
+        "medical": 72,
+        "overall": 37,
+        "physicalHarm": 27,
+        "politicalFreedom": 44,
+        "theft": 22,
+        "women": 23
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-City Hall (New York)",
+      "geoCode": {
+        "latitude": 40.714353,
+        "longitude": -74.005973
+      },
+      "safetyScores": {
+        "lgbtq": 32,
+        "medical": 68,
+        "overall": 35,
+        "physicalHarm": 26,
+        "politicalFreedom": 41,
+        "theft": 21,
+        "women": 21
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Clinton-Hell's Kitchen (New York)",
+      "geoCode": {
+        "latitude": 40.763632,
+        "longitude": -73.993122
+      },
+      "safetyScores": {
+        "lgbtq": 38,
+        "medical": 74,
+        "overall": 42,
+        "physicalHarm": 32,
+        "politicalFreedom": 45,
+        "theft": 35,
+        "women": 29
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-East Village (New York)",
+      "geoCode": {
+        "latitude": 40.726623,
+        "longitude": -73.983405
+      },
+      "safetyScores": {
+        "lgbtq": 32,
+        "medical": 68,
+        "overall": 35,
+        "physicalHarm": 26,
+        "politicalFreedom": 41,
+        "theft": 22,
+        "women": 23
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Financial District (New York)",
+      "geoCode": {
+        "latitude": 40.719941,
+        "longitude": -73.999497
+      },
+      "safetyScores": {
+        "lgbtq": 32,
+        "medical": 66,
+        "overall": 33,
+        "physicalHarm": 26,
+        "politicalFreedom": 37,
+        "theft": 18,
+        "women": 18
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Garrment District (New York)",
+      "geoCode": {
+        "latitude": 40.754967,
+        "longitude": -73.991585
+      },
+      "safetyScores": {
+        "lgbtq": 43,
+        "medical": 74,
+        "overall": 47,
+        "physicalHarm": 38,
+        "politicalFreedom": 52,
+        "theft": 40,
+        "women": 35
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Gramercy Park (New York)",
+      "geoCode": {
+        "latitude": 40.737904,
+        "longitude": -73.98568
+      },
+      "safetyScores": {
+        "lgbtq": 29,
+        "medical": 69,
+        "overall": 34,
+        "physicalHarm": 23,
+        "politicalFreedom": 41,
+        "theft": 21,
+        "women": 23
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Hell's Kitchen-Clinton (New York)",
+      "geoCode": {
+        "latitude": 40.764165,
+        "longitude": -73.993823
+      },
+      "safetyScores": {
+        "lgbtq": 38,
+        "medical": 68,
+        "overall": 41,
+        "physicalHarm": 32,
+        "politicalFreedom": 45,
+        "theft": 35,
+        "women": 29
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Hudson Yards (New York)",
+      "geoCode": {
+        "latitude": 40.756414,
+        "longitude": -74.002872
+      },
+      "safetyScores": {
+        "lgbtq": 41,
+        "medical": 72,
+        "overall": 45,
+        "physicalHarm": 36,
+        "politicalFreedom": 50,
+        "theft": 39,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Kips Bay (New York)",
+      "geoCode": {
+        "latitude": 40.74258,
+        "longitude": -73.979269
+      },
+      "safetyScores": {
+        "lgbtq": 41,
+        "medical": 72,
+        "overall": 45,
+        "physicalHarm": 36,
+        "politicalFreedom": 50,
+        "theft": 39,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Lenox Hill (New York)",
+      "geoCode": {
+        "latitude": 40.766175,
+        "longitude": -73.960264
+      },
+      "safetyScores": {
+        "lgbtq": 42,
+        "medical": 70,
+        "overall": 43,
+        "physicalHarm": 37,
+        "politicalFreedom": 48,
+        "theft": 33,
+        "women": 25
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Lincoln Center (New York)",
+      "geoCode": {
+        "latitude": 40.777069,
+        "longitude": -73.984762
+      },
+      "safetyScores": {
+        "lgbtq": 30,
+        "medical": 67,
+        "overall": 32,
+        "physicalHarm": 23,
+        "politicalFreedom": 36,
+        "theft": 19,
+        "women": 18
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Little Italy (New York)",
+      "geoCode": {
+        "latitude": 40.719152,
+        "longitude": -73.99809
+      },
+      "safetyScores": {
+        "lgbtq": 41,
+        "medical": 70,
+        "overall": 44,
+        "physicalHarm": 35,
+        "politicalFreedom": 48,
+        "theft": 37,
+        "women": 32
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Lower East Side (New York)",
+      "geoCode": {
+        "latitude": 40.715033,
+        "longitude": -73.984272
+      },
+      "safetyScores": {
+        "lgbtq": 32,
+        "medical": 69,
+        "overall": 36,
+        "physicalHarm": 27,
+        "politicalFreedom": 41,
+        "theft": 24,
+        "women": 25
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Midtown East-Turtle Bay (New York)",
+      "geoCode": {
+        "latitude": 40.755262,
+        "longitude": -73.969209
+      },
+      "safetyScores": {
+        "lgbtq": 32,
+        "medical": 68,
+        "overall": 34,
+        "physicalHarm": 26,
+        "politicalFreedom": 35,
+        "theft": 19,
+        "women": 23
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Midtown Times Sq (New York)",
+      "geoCode": {
+        "latitude": 40.758895,
+        "longitude": -73.985131
+      },
+      "safetyScores": {
+        "lgbtq": 50,
+        "medical": 72,
+        "overall": 47,
+        "physicalHarm": 46,
+        "politicalFreedom": 47,
+        "theft": 43,
+        "women": 25
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Murray Hill (New York)",
+      "geoCode": {
+        "latitude": 40.748085,
+        "longitude": -73.976615
+      },
+      "safetyScores": {
+        "lgbtq": 31,
+        "medical": 68,
+        "overall": 34,
+        "physicalHarm": 25,
+        "politicalFreedom": 39,
+        "theft": 20,
+        "women": 19
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Nolita (New York)",
+      "geoCode": {
+        "latitude": 40.723133,
+        "longitude": -73.994847
+      },
+      "safetyScores": {
+        "lgbtq": 41,
+        "medical": 72,
+        "overall": 45,
+        "physicalHarm": 36,
+        "politicalFreedom": 50,
+        "theft": 39,
+        "women": 33
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-SoHo (New York)",
+      "geoCode": {
+        "latitude": 40.722306,
+        "longitude": -73.998648
+      },
+      "safetyScores": {
+        "lgbtq": 32,
+        "medical": 71,
+        "overall": 36,
+        "physicalHarm": 26,
+        "politicalFreedom": 41,
+        "theft": 22,
+        "women": 24
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-South Central Park (New York)",
+      "geoCode": {
+        "latitude": 40.771059,
+        "longitude": -73.974444
+      },
+      "safetyScores": {
+        "lgbtq": 32,
+        "medical": 66,
+        "overall": 35,
+        "physicalHarm": 26,
+        "politicalFreedom": 41,
+        "theft": 22,
+        "women": 23
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Stuyvesant Town (New York)",
+      "geoCode": {
+        "latitude": 40.732325,
+        "longitude": -73.978153
+      },
+      "safetyScores": {
+        "lgbtq": 32,
+        "medical": 72,
+        "overall": 37,
+        "physicalHarm": 27,
+        "politicalFreedom": 41,
+        "theft": 23,
+        "women": 25
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-TriBeca (New York)",
+      "geoCode": {
+        "latitude": 40.716895,
+        "longitude": -74.011172
+      },
+      "safetyScores": {
+        "lgbtq": 32,
+        "medical": 68,
+        "overall": 36,
+        "physicalHarm": 26,
+        "politicalFreedom": 41,
+        "theft": 22,
+        "women": 24
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Upper East Side (New York)",
+      "geoCode": {
+        "latitude": 40.774114,
+        "longitude": -73.956248
+      },
+      "safetyScores": {
+        "lgbtq": 32,
+        "medical": 66,
+        "overall": 34,
+        "physicalHarm": 26,
+        "politicalFreedom": 37,
+        "theft": 18,
+        "women": 23
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Upper West Side (New York)",
+      "geoCode": {
+        "latitude": 40.78711,
+        "longitude": -73.975793
+      },
+      "safetyScores": {
+        "lgbtq": 44,
+        "medical": 72,
+        "overall": 44,
+        "physicalHarm": 39,
+        "politicalFreedom": 50,
+        "theft": 35,
+        "women": 26
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-West Village (New York)",
+      "geoCode": {
+        "latitude": 40.734474,
+        "longitude": -74.004477
+      },
+      "safetyScores": {
+        "lgbtq": 38,
+        "medical": 73,
+        "overall": 39,
+        "physicalHarm": 32,
+        "politicalFreedom": 41,
+        "theft": 24,
+        "women": 25
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Manhattan-Yorkville (New York)",
+      "geoCode": {
+        "latitude": 40.776283,
+        "longitude": -73.949363
+      },
+      "safetyScores": {
+        "lgbtq": 44,
+        "medical": 72,
+        "overall": 44,
+        "physicalHarm": 39,
+        "politicalFreedom": 50,
+        "theft": 35,
+        "women": 26
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Queens-Long Island City (New York)",
+      "geoCode": {
+        "latitude": 40.745778,
+        "longitude": -73.94853
+      },
+      "safetyScores": {
+        "lgbtq": 39,
+        "medical": 76,
+        "overall": 42,
+        "physicalHarm": 33,
+        "politicalFreedom": 47,
+        "theft": 30,
+        "women": 29
+      }
+    },
+    {
+
+      "subType": "CITY",
+      "name": "Paris",
+      "geoCode": {
+        "latitude": 48.856614,
+        "longitude": 2.3522219
+      },
+      "safetyScores": {
+        "lgbtq": 28,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 27,
+        "politicalFreedom": 34,
+        "theft": 32,
+        "women": 30
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Amérique (Paris)",
+      "geoCode": {
+        "latitude": 48.8778684,
+        "longitude": 2.394081
+      },
+      "safetyScores": {
+        "lgbtq": 34,
+        "medical": 0,
+        "overall": 39,
+        "physicalHarm": 33,
+        "politicalFreedom": 34,
+        "theft": 33,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Arsenal (Paris)",
+      "geoCode": {
+        "latitude": 48.8520593,
+        "longitude": 2.3654105
+      },
+      "safetyScores": {
+        "lgbtq": 34,
+        "medical": 0,
+        "overall": 39,
+        "physicalHarm": 33,
+        "politicalFreedom": 34,
+        "theft": 32,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Auteuil (Paris)",
+      "geoCode": {
+        "latitude": 48.8554427,
+        "longitude": 2.2573626
+      },
+      "safetyScores": {
+        "lgbtq": 22,
+        "medical": 0,
+        "overall": 32,
+        "physicalHarm": 21,
+        "politicalFreedom": 34,
+        "theft": 28,
+        "women": 23
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Barbès (Paris)",
+      "geoCode": {
+        "latitude": 48.8874167,
+        "longitude": 2.3495377
+      },
+      "safetyScores": {
+        "lgbtq": 31,
+        "medical": 0,
+        "overall": 39,
+        "physicalHarm": 30,
+        "politicalFreedom": 34,
+        "theft": 37,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Batignolles (Paris)",
+      "geoCode": {
+        "latitude": 48.8882985,
+        "longitude": 2.3147683
+      },
+      "safetyScores": {
+        "lgbtq": 25,
+        "medical": 0,
+        "overall": 35,
+        "physicalHarm": 24,
+        "politicalFreedom": 34,
+        "theft": 35,
+        "women": 27
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Bel-Air Nord (Paris)",
+      "geoCode": {
+        "latitude": 48.8436208,
+        "longitude": 2.4066601
+      },
+      "safetyScores": {
+        "lgbtq": 28,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 28,
+        "politicalFreedom": 34,
+        "theft": 28,
+        "women": 30
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Belleville (Paris)",
+      "geoCode": {
+        "latitude": 48.8728179,
+        "longitude": 2.389461
+      },
+      "safetyScores": {
+        "lgbtq": 40,
+        "medical": 0,
+        "overall": 41,
+        "physicalHarm": 40,
+        "politicalFreedom": 34,
+        "theft": 26,
+        "women": 40
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Bercy (Paris)",
+      "geoCode": {
+        "latitude": 48.835455,
+        "longitude": 2.3856832
+      },
+      "safetyScores": {
+        "lgbtq": 28,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 28,
+        "politicalFreedom": 34,
+        "theft": 28,
+        "women": 30
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Bourse (Paris)",
+      "geoCode": {
+        "latitude": 48.8691117,
+        "longitude": 2.3413164
+      },
+      "safetyScores": {
+        "lgbtq": 32,
+        "medical": 0,
+        "overall": 39,
+        "physicalHarm": 31,
+        "politicalFreedom": 34,
+        "theft": 37,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Butte aux Cailles (Paris)",
+      "geoCode": {
+        "latitude": 48.8271912,
+        "longitude": 2.3490795
+      },
+      "safetyScores": {
+        "lgbtq": 21,
+        "medical": 0,
+        "overall": 31,
+        "physicalHarm": 20,
+        "politicalFreedom": 34,
+        "theft": 26,
+        "women": 21
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Chaillot (Paris)",
+      "geoCode": {
+        "latitude": 48.8698617,
+        "longitude": 2.2921975
+      },
+      "safetyScores": {
+        "lgbtq": 22,
+        "medical": 0,
+        "overall": 32,
+        "physicalHarm": 21,
+        "politicalFreedom": 34,
+        "theft": 28,
+        "women": 23
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Champs-Élysées (Paris)",
+      "geoCode": {
+        "latitude": 48.8716907,
+        "longitude": 2.3018218
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 39,
+        "physicalHarm": 36,
+        "politicalFreedom": 34,
+        "theft": 29,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Charonne (Paris)",
+      "geoCode": {
+        "latitude": 48.8525023,
+        "longitude": 2.4031934
+      },
+      "safetyScores": {
+        "lgbtq": 23,
+        "medical": 0,
+        "overall": 33,
+        "physicalHarm": 22,
+        "politicalFreedom": 34,
+        "theft": 26,
+        "women": 26
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Cité des Périchaux (Paris)",
+      "geoCode": {
+        "latitude": 48.830452,
+        "longitude": 2.2963782
+      },
+      "safetyScores": {
+        "lgbtq": 20,
+        "medical": 0,
+        "overall": 32,
+        "physicalHarm": 19,
+        "politicalFreedom": 34,
+        "theft": 30,
+        "women": 21
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Cité florale (Paris)",
+      "geoCode": {
+        "latitude": 48.8227065,
+        "longitude": 2.3453748
+      },
+      "safetyScores": {
+        "lgbtq": 26,
+        "medical": 0,
+        "overall": 34,
+        "physicalHarm": 25,
+        "politicalFreedom": 34,
+        "theft": 26,
+        "women": 25
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Clignancourt (Paris)",
+      "geoCode": {
+        "latitude": 48.8889617,
+        "longitude": 2.344352
+      },
+      "safetyScores": {
+        "lgbtq": 40,
+        "medical": 0,
+        "overall": 43,
+        "physicalHarm": 40,
+        "politicalFreedom": 34,
+        "theft": 37,
+        "women": 40
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Combat (Paris)",
+      "geoCode": {
+        "latitude": 48.8759905,
+        "longitude": 2.3813442
+      },
+      "safetyScores": {
+        "lgbtq": 42,
+        "medical": 0,
+        "overall": 45,
+        "physicalHarm": 42,
+        "politicalFreedom": 34,
+        "theft": 41,
+        "women": 43
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Croulebarbe (Paris)",
+      "geoCode": {
+        "latitude": 48.8347839,
+        "longitude": 2.3468998
+      },
+      "safetyScores": {
+        "lgbtq": 26,
+        "medical": 0,
+        "overall": 34,
+        "physicalHarm": 25,
+        "politicalFreedom": 34,
+        "theft": 26,
+        "women": 25
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Épinettes (Paris)",
+      "geoCode": {
+        "latitude": 48.8931588,
+        "longitude": 2.3236013
+      },
+      "safetyScores": {
+        "lgbtq": 25,
+        "medical": 0,
+        "overall": 35,
+        "physicalHarm": 24,
+        "politicalFreedom": 34,
+        "theft": 35,
+        "women": 27
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Faubourg Saint-Germain (Paris)",
+      "geoCode": {
+        "latitude": 48.8519896,
+        "longitude": 2.3047888
+      },
+      "safetyScores": {
+        "lgbtq": 25,
+        "medical": 0,
+        "overall": 35,
+        "physicalHarm": 24,
+        "politicalFreedom": 34,
+        "theft": 27,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Faubourg-du-Roule (Paris)",
+      "geoCode": {
+        "latitude": 48.8746664,
+        "longitude": 2.3038222
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 41,
+        "physicalHarm": 36,
+        "politicalFreedom": 34,
+        "theft": 38,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Folie-Méricourt (Paris)",
+      "geoCode": {
+        "latitude": 48.8669914,
+        "longitude": 2.3720624
+      },
+      "safetyScores": {
+        "lgbtq": 28,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 27,
+        "politicalFreedom": 34,
+        "theft": 30,
+        "women": 29
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Gaillon (Paris)",
+      "geoCode": {
+        "latitude": 48.8696623,
+        "longitude": 2.3336218
+      },
+      "safetyScores": {
+        "lgbtq": 23,
+        "medical": 0,
+        "overall": 34,
+        "physicalHarm": 22,
+        "politicalFreedom": 34,
+        "theft": 37,
+        "women": 24
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Georges Brassens (Paris)",
+      "geoCode": {
+        "latitude": 48.8282054,
+        "longitude": 2.2986505
+      },
+      "safetyScores": {
+        "lgbtq": 20,
+        "medical": 0,
+        "overall": 32,
+        "physicalHarm": 19,
+        "politicalFreedom": 34,
+        "theft": 30,
+        "women": 21
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Goutte d'Or (Paris)",
+      "geoCode": {
+        "latitude": 48.8887332,
+        "longitude": 2.3555872
+      },
+      "safetyScores": {
+        "lgbtq": 40,
+        "medical": 0,
+        "overall": 43,
+        "physicalHarm": 40,
+        "politicalFreedom": 34,
+        "theft": 37,
+        "women": 40
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Grenelle (Paris)",
+      "geoCode": {
+        "latitude": 48.8497552,
+        "longitude": 2.2905737
+      },
+      "safetyScores": {
+        "lgbtq": 20,
+        "medical": 0,
+        "overall": 32,
+        "physicalHarm": 19,
+        "politicalFreedom": 34,
+        "theft": 30,
+        "women": 21
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Gros-Caillou (Paris)",
+      "geoCode": {
+        "latitude": 48.8583002,
+        "longitude": 2.3038975
+      },
+      "safetyScores": {
+        "lgbtq": 25,
+        "medical": 0,
+        "overall": 35,
+        "physicalHarm": 24,
+        "politicalFreedom": 34,
+        "theft": 27,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Hôpital-Saint-Louis (Paris)",
+      "geoCode": {
+        "latitude": 48.8741309,
+        "longitude": 2.3686427
+      },
+      "safetyScores": {
+        "lgbtq": 36,
+        "medical": 0,
+        "overall": 40,
+        "physicalHarm": 35,
+        "politicalFreedom": 34,
+        "theft": 36,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Hotel de Ville (Paris)",
+      "geoCode": {
+        "latitude": 48.8564826,
+        "longitude": 2.3524135
+      },
+      "safetyScores": {
+        "lgbtq": 29,
+        "medical": 0,
+        "overall": 37,
+        "physicalHarm": 28,
+        "politicalFreedom": 34,
+        "theft": 32,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Ile de la Cité (Paris)",
+      "geoCode": {
+        "latitude": 48.8548825,
+        "longitude": 2.3474928
+      },
+      "safetyScores": {
+        "lgbtq": 34,
+        "medical": 0,
+        "overall": 39,
+        "physicalHarm": 33,
+        "politicalFreedom": 34,
+        "theft": 32,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Jaurès (Paris)",
+      "geoCode": {
+        "latitude": 48.8828771,
+        "longitude": 2.3708378
+      },
+      "safetyScores": {
+        "lgbtq": 31,
+        "medical": 0,
+        "overall": 38,
+        "physicalHarm": 30,
+        "politicalFreedom": 34,
+        "theft": 33,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Javel (Paris)",
+      "geoCode": {
+        "latitude": 48.8399261,
+        "longitude": 2.2785604
+      },
+      "safetyScores": {
+        "lgbtq": 20,
+        "medical": 0,
+        "overall": 32,
+        "physicalHarm": 19,
+        "politicalFreedom": 34,
+        "theft": 30,
+        "women": 21
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "La Banane (Paris)",
+      "geoCode": {
+        "latitude": 48.8655358,
+        "longitude": 2.3897989
+      },
+      "safetyScores": {
+        "lgbtq": 23,
+        "medical": 0,
+        "overall": 33,
+        "physicalHarm": 22,
+        "politicalFreedom": 34,
+        "theft": 26,
+        "women": 26
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "La Chapelle (Paris)",
+      "geoCode": {
+        "latitude": 48.8923042,
+        "longitude": 2.3657346
+      },
+      "safetyScores": {
+        "lgbtq": 31,
+        "medical": 0,
+        "overall": 39,
+        "physicalHarm": 30,
+        "politicalFreedom": 34,
+        "theft": 37,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "La Villette (Paris)",
+      "geoCode": {
+        "latitude": 48.8938489,
+        "longitude": 2.39026
+      },
+      "safetyScores": {
+        "lgbtq": 30,
+        "medical": 0,
+        "overall": 38,
+        "physicalHarm": 29,
+        "politicalFreedom": 34,
+        "theft": 33,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Latin Quarter (Paris)",
+      "geoCode": {
+        "latitude": 48.8513782,
+        "longitude": 2.3432153
+      },
+      "safetyScores": {
+        "lgbtq": 23,
+        "medical": 0,
+        "overall": 33,
+        "physicalHarm": 22,
+        "politicalFreedom": 34,
+        "theft": 31,
+        "women": 24
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Le Marais (Paris)",
+      "geoCode": {
+        "latitude": 48.8587029,
+        "longitude": 2.3588038
+      },
+      "safetyScores": {
+        "lgbtq": 29,
+        "medical": 0,
+        "overall": 37,
+        "physicalHarm": 28,
+        "politicalFreedom": 34,
+        "theft": 32,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Les Arcades (Paris)",
+      "geoCode": {
+        "latitude": 48.8466295,
+        "longitude": 2.413245
+      },
+      "safetyScores": {
+        "lgbtq": 28,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 28,
+        "politicalFreedom": 34,
+        "theft": 28,
+        "women": 30
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Les Archives (Paris)",
+      "geoCode": {
+        "latitude": 48.8592183,
+        "longitude": 2.3621286
+      },
+      "safetyScores": {
+        "lgbtq": 29,
+        "medical": 0,
+        "overall": 37,
+        "physicalHarm": 28,
+        "politicalFreedom": 34,
+        "theft": 32,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Les Fougères (Paris)",
+      "geoCode": {
+        "latitude": 48.8686909,
+        "longitude": 2.4116029
+      },
+      "safetyScores": {
+        "lgbtq": 23,
+        "medical": 0,
+        "overall": 33,
+        "physicalHarm": 22,
+        "politicalFreedom": 34,
+        "theft": 26,
+        "women": 26
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Les Halles (Paris)",
+      "geoCode": {
+        "latitude": 48.8623348,
+        "longitude": 2.3447356
+      },
+      "safetyScores": {
+        "lgbtq": 34,
+        "medical": 0,
+        "overall": 40,
+        "physicalHarm": 33,
+        "politicalFreedom": 34,
+        "theft": 38,
+        "women": 35
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Les Invalides (Paris)",
+      "geoCode": {
+        "latitude": 48.8552738,
+        "longitude": 2.3125027
+      },
+      "safetyScores": {
+        "lgbtq": 25,
+        "medical": 0,
+        "overall": 35,
+        "physicalHarm": 24,
+        "politicalFreedom": 34,
+        "theft": 27,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "L'Europe (Paris)",
+      "geoCode": {
+        "latitude": 48.8793577,
+        "longitude": 2.3210657
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 39,
+        "physicalHarm": 36,
+        "politicalFreedom": 34,
+        "theft": 29,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Louvre (Paris)",
+      "geoCode": {
+        "latitude": 48.8606111,
+        "longitude": 2.337644
+      },
+      "safetyScores": {
+        "lgbtq": 34,
+        "medical": 0,
+        "overall": 40,
+        "physicalHarm": 33,
+        "politicalFreedom": 34,
+        "theft": 38,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Luxembourg (Paris)",
+      "geoCode": {
+        "latitude": 48.8462217,
+        "longitude": 2.3371605
+      },
+      "safetyScores": {
+        "lgbtq": 24,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 23,
+        "politicalFreedom": 34,
+        "theft": 36,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Madeleine (Paris)",
+      "geoCode": {
+        "latitude": 48.8700435,
+        "longitude": 2.3245502
+      },
+      "safetyScores": {
+        "lgbtq": 37,
+        "medical": 0,
+        "overall": 39,
+        "physicalHarm": 36,
+        "politicalFreedom": 34,
+        "theft": 29,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Maison-Blanche (Paris)",
+      "geoCode": {
+        "latitude": 48.8659169,
+        "longitude": 2.3027936
+      },
+      "safetyScores": {
+        "lgbtq": 26,
+        "medical": 0,
+        "overall": 34,
+        "physicalHarm": 25,
+        "politicalFreedom": 34,
+        "theft": 26,
+        "women": 25
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Monnaie (Paris)",
+      "geoCode": {
+        "latitude": 48.8566749,
+        "longitude": 2.3390381
+      },
+      "safetyScores": {
+        "lgbtq": 24,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 23,
+        "politicalFreedom": 34,
+        "theft": 36,
+        "women": 34
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Montmartre (Paris)",
+      "geoCode": {
+        "latitude": 48.8861929,
+        "longitude": 2.3430895
+      },
+      "safetyScores": {
+        "lgbtq": 42,
+        "medical": 0,
+        "overall": 45,
+        "physicalHarm": 42,
+        "politicalFreedom": 34,
+        "theft": 41,
+        "women": 43
+      }
+    },
+    {
+
+      "subType": "CITY",
+      "name": "San Francisco",
+      "geoCode": {
+        "latitude": 37.77493,
+        "longitude": -122.419416
+      },
+      "safetyScores": {
+        "lgbtq": 33,
+        "medical": 72,
+        "overall": 40,
+        "physicalHarm": 32,
+        "politicalFreedom": 23,
+        "theft": 55,
+        "women": 26
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Bernal Heights (San Francisco)",
+      "geoCode": {
+        "latitude": 37.741268,
+        "longitude": -122.417943
+      },
+      "safetyScores": {
+        "lgbtq": 46,
+        "medical": 75,
+        "overall": 51,
+        "physicalHarm": 46,
+        "politicalFreedom": 31,
+        "theft": 68,
+        "women": 37
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Castro District (San Francisco)",
+      "geoCode": {
+        "latitude": 37.760998,
+        "longitude": -122.435138
+      },
+      "safetyScores": {
+        "lgbtq": 18,
+        "medical": 68,
+        "overall": 29,
+        "physicalHarm": 16,
+        "politicalFreedom": 17,
+        "theft": 39,
+        "women": 15
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Chinatown (San Francisco)",
+      "geoCode": {
+        "latitude": 37.794256,
+        "longitude": -122.407153
+      },
+      "safetyScores": {
+        "lgbtq": 18,
+        "medical": 67,
+        "overall": 28,
+        "physicalHarm": 15,
+        "politicalFreedom": 17,
+        "theft": 39,
+        "women": 14
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Cole Valley (San Francisco)",
+      "geoCode": {
+        "latitude": 37.765405,
+        "longitude": -122.450631
+      },
+      "safetyScores": {
+        "lgbtq": 15,
+        "medical": 66,
+        "overall": 28,
+        "physicalHarm": 17,
+        "politicalFreedom": 16,
+        "theft": 37,
+        "women": 17
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Diamond Heights (San Francisco)",
+      "geoCode": {
+        "latitude": 37.742506,
+        "longitude": -122.442648
+      },
+      "safetyScores": {
+        "lgbtq": 48,
+        "medical": 77,
+        "overall": 53,
+        "physicalHarm": 48,
+        "politicalFreedom": 32,
+        "theft": 71,
+        "women": 39
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Downtown (San Francisco)",
+      "geoCode": {
+        "latitude": 37.768536,
+        "longitude": -122.429706
+      },
+      "safetyScores": {
+        "lgbtq": 43,
+        "medical": 73,
+        "overall": 48,
+        "physicalHarm": 43,
+        "politicalFreedom": 28,
+        "theft": 66,
+        "women": 32
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Financial District (San Francisco)",
+      "geoCode": {
+        "latitude": 37.794062,
+        "longitude": -122.401371
+      },
+      "safetyScores": {
+        "lgbtq": 15,
+        "medical": 66,
+        "overall": 28,
+        "physicalHarm": 17,
+        "politicalFreedom": 16,
+        "theft": 37,
+        "women": 17
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Fisherman's Wharf (San Francisco)",
+      "geoCode": {
+        "latitude": 37.807144,
+        "longitude": -122.416481
+      },
+      "safetyScores": {
+        "lgbtq": 35,
+        "medical": 72,
+        "overall": 42,
+        "physicalHarm": 34,
+        "politicalFreedom": 23,
+        "theft": 57,
+        "women": 28
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Glen Park (San Francisco)",
+      "geoCode": {
+        "latitude": 37.738453,
+        "longitude": -122.432619
+      },
+      "safetyScores": {
+        "lgbtq": 48,
+        "medical": 77,
+        "overall": 53,
+        "physicalHarm": 48,
+        "politicalFreedom": 32,
+        "theft": 71,
+        "women": 39
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Golden Gate Park (San Francisco)",
+      "geoCode": {
+        "latitude": 37.769171,
+        "longitude": -122.482898
+      },
+      "safetyScores": {
+        "lgbtq": 50,
+        "medical": 79,
+        "overall": 55,
+        "physicalHarm": 51,
+        "politicalFreedom": 32,
+        "theft": 76,
+        "women": 42
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Haight-Ashbury (San Francisco)",
+      "geoCode": {
+        "latitude": 37.770061,
+        "longitude": -122.4469
+      },
+      "safetyScores": {
+        "lgbtq": 31,
+        "medical": 65,
+        "overall": 37,
+        "physicalHarm": 29,
+        "politicalFreedom": 22,
+        "theft": 51,
+        "women": 24
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Hayes Valley (San Francisco)",
+      "geoCode": {
+        "latitude": 37.775218,
+        "longitude": -122.426308
+      },
+      "safetyScores": {
+        "lgbtq": 27,
+        "medical": 72,
+        "overall": 36,
+        "physicalHarm": 25,
+        "politicalFreedom": 21,
+        "theft": 48,
+        "women": 21
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Inner Richmond (San Francisco)",
+      "geoCode": {
+        "latitude": 37.779904,
+        "longitude": -122.465214
+      },
+      "safetyScores": {
+        "lgbtq": 39,
+        "medical": 71,
+        "overall": 44,
+        "physicalHarm": 38,
+        "politicalFreedom": 25,
+        "theft": 62,
+        "women": 29
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Inner Sunset (San Francisco)",
+      "geoCode": {
+        "latitude": 37.760817,
+        "longitude": -122.46808
+      },
+      "safetyScores": {
+        "lgbtq": 39,
+        "medical": 71,
+        "overall": 44,
+        "physicalHarm": 38,
+        "politicalFreedom": 25,
+        "theft": 62,
+        "women": 29
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Japantown (San Francisco)",
+      "geoCode": {
+        "latitude": 37.785597,
+        "longitude": -122.43038
+      },
+      "safetyScores": {
+        "lgbtq": 18,
+        "medical": 68,
+        "overall": 29,
+        "physicalHarm": 16,
+        "politicalFreedom": 17,
+        "theft": 39,
+        "women": 15
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Lower Haight (San Francisco)",
+      "geoCode": {
+        "latitude": 37.771755,
+        "longitude": -122.433775
+      },
+      "safetyScores": {
+        "lgbtq": 29,
+        "medical": 73,
+        "overall": 38,
+        "physicalHarm": 28,
+        "politicalFreedom": 22,
+        "theft": 51,
+        "women": 24
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Marina (San Francisco)",
+      "geoCode": {
+        "latitude": 37.803767,
+        "longitude": -122.437517
+      },
+      "safetyScores": {
+        "lgbtq": 32,
+        "medical": 73,
+        "overall": 39,
+        "physicalHarm": 30,
+        "politicalFreedom": 23,
+        "theft": 53,
+        "women": 25
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Mission District (San Francisco)",
+      "geoCode": {
+        "latitude": 37.760006,
+        "longitude": -122.415216
+      },
+      "safetyScores": {
+        "lgbtq": 50,
+        "medical": 79,
+        "overall": 55,
+        "physicalHarm": 51,
+        "politicalFreedom": 32,
+        "theft": 76,
+        "women": 42
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Nob Hill (San Francisco)",
+      "geoCode": {
+        "latitude": 37.793198,
+        "longitude": -122.416305
+      },
+      "safetyScores": {
+        "lgbtq": 16,
+        "medical": 72,
+        "overall": 28,
+        "physicalHarm": 17,
+        "politicalFreedom": 16,
+        "theft": 32,
+        "women": 17
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Noe Valley (San Francisco)",
+      "geoCode": {
+        "latitude": 37.750277,
+        "longitude": -122.433748
+      },
+      "safetyScores": {
+        "lgbtq": 27,
+        "medical": 72,
+        "overall": 36,
+        "physicalHarm": 25,
+        "politicalFreedom": 21,
+        "theft": 48,
+        "women": 21
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "North Beach (San Francisco)",
+      "geoCode": {
+        "latitude": 37.806102,
+        "longitude": -122.410085
+      },
+      "safetyScores": {
+        "lgbtq": 18,
+        "medical": 67,
+        "overall": 28,
+        "physicalHarm": 15,
+        "politicalFreedom": 17,
+        "theft": 39,
+        "women": 14
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Pacific Heights (San Francisco)",
+      "geoCode": {
+        "latitude": 37.792665,
+        "longitude": -122.438685
+      },
+      "safetyScores": {
+        "lgbtq": 18,
+        "medical": 68,
+        "overall": 29,
+        "physicalHarm": 16,
+        "politicalFreedom": 17,
+        "theft": 39,
+        "women": 15
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Panhandle (San Francisco)",
+      "geoCode": {
+        "latitude": 37.772674,
+        "longitude": -122.444789
+      },
+      "safetyScores": {
+        "lgbtq": 23,
+        "medical": 70,
+        "overall": 33,
+        "physicalHarm": 22,
+        "politicalFreedom": 19,
+        "theft": 46,
+        "women": 19
+      }
+    },
+    {
+
+      "subType": "DISTRICT",
+      "name": "Parkside (San Francisco)",
+      "geoCode": {
+        "latitude": 37.732596,
+        "longitude": -122.478676
+      },
+      "safetyScores": {
+        "lgbtq": 35,
+        "medical": 72,
+        "overall": 42,
+        "physicalHarm": 34,
+        "politicalFreedom": 23,
+        "theft": 57,
+        "women": 28
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Potrero Hill (San Francisco)",
+      "geoCode": {
+        "latitude": 37.760675,
+        "longitude": -122.400917
+      },
+      "safetyScores": {
+        "lgbtq": 23,
+        "medical": 70,
+        "overall": 32,
+        "physicalHarm": 20,
+        "politicalFreedom": 18,
+        "theft": 44,
+        "women": 19
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Presidio (San Francisco)",
+      "geoCode": {
+        "latitude": 37.799008,
+        "longitude": -122.466273
+      },
+      "safetyScores": {
+        "lgbtq": 27,
+        "medical": 72,
+        "overall": 36,
+        "physicalHarm": 25,
+        "politicalFreedom": 21,
+        "theft": 48,
+        "women": 21
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Richmond (San Francisco)",
+      "geoCode": {
+        "latitude": 37.780702,
+        "longitude": -122.477204
+      },
+      "safetyScores": {
+        "lgbtq": 19,
+        "medical": 68,
+        "overall": 30,
+        "physicalHarm": 17,
+        "politicalFreedom": 17,
+        "theft": 41,
+        "women": 16
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Russian Hill (San Francisco)",
+      "geoCode": {
+        "latitude": 37.801222,
+        "longitude": -122.418851
+      },
+      "safetyScores": {
+        "lgbtq": 16,
+        "medical": 65,
+        "overall": 27,
+        "physicalHarm": 17,
+        "politicalFreedom": 14,
+        "theft": 35,
+        "women": 17
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Sixth Street (San Francisco)",
+      "geoCode": {
+        "latitude": 37.780852,
+        "longitude": -122.408724
+      },
+      "safetyScores": {
+        "lgbtq": 47,
+        "medical": 74,
+        "overall": 50,
+        "physicalHarm": 47,
+        "politicalFreedom": 30,
+        "theft": 68,
+        "women": 35
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "SOMA (South of Market) (San Francisco)",
+      "geoCode": {
+        "latitude": 37.778644,
+        "longitude": -122.405852
+      },
+      "safetyScores": {
+        "lgbtq": 48,
+        "medical": 77,
+        "overall": 53,
+        "physicalHarm": 48,
+        "politicalFreedom": 32,
+        "theft": 71,
+        "women": 39
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Tenderloin (San Francisco)",
+      "geoCode": {
+        "latitude": 37.784794,
+        "longitude": -122.411293
+      },
+      "safetyScores": {
+        "lgbtq": 54,
+        "medical": 79,
+        "overall": 57,
+        "physicalHarm": 56,
+        "politicalFreedom": 32,
+        "theft": 76,
+        "women": 42
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Twin Peaks (San Francisco)",
+      "geoCode": {
+        "latitude": 37.752183,
+        "longitude": -122.447614
+      },
+      "safetyScores": {
+        "lgbtq": 33,
+        "medical": 72,
+        "overall": 40,
+        "physicalHarm": 32,
+        "politicalFreedom": 23,
+        "theft": 55,
+        "women": 26
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Union Square (San Francisco)",
+      "geoCode": {
+        "latitude": 37.788036,
+        "longitude": -122.407545
+      },
+      "safetyScores": {
+        "lgbtq": 14,
+        "medical": 66,
+        "overall": 28,
+        "physicalHarm": 17,
+        "politicalFreedom": 16,
+        "theft": 36,
+        "women": 17
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Upper Market (San Francisco)",
+      "geoCode": {
+        "latitude": 37.754421,
+        "longitude": -122.443494
+      },
+      "safetyScores": {
+        "lgbtq": 39,
+        "medical": 71,
+        "overall": 44,
+        "physicalHarm": 38,
+        "politicalFreedom": 25,
+        "theft": 62,
+        "women": 29
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "West Of Twin Peaks (San Francisco)",
+      "geoCode": {
+        "latitude": 37.738513,
+        "longitude": -122.457788
+      },
+      "safetyScores": {
+        "lgbtq": 39,
+        "medical": 71,
+        "overall": 44,
+        "physicalHarm": 38,
+        "politicalFreedom": 25,
+        "theft": 62,
+        "women": 29
+      }
+    },
+    {
+      "subType": "DISTRICT",
+      "name": "Western Addition (San Francisco)",
+      "geoCode": {
+        "latitude": 37.782407,
+        "longitude": -122.434556
+      },
+      "safetyScores": {
+        "lgbtq": 39,
+        "medical": 71,
+        "overall": 44,
+        "physicalHarm": 38,
+        "politicalFreedom": 25,
+        "theft": 62,
+        "women": 29
+      }
+    }
+  ]
+}
