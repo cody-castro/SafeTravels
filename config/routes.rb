@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  root 'static_page#home'
   resources :destinations
   resources :trips
   resources :travelers
