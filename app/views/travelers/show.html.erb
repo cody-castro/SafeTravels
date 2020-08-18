@@ -1,6 +1,7 @@
-<h1><%= @traveler.username %></h1>
 
-<strong>Date Of Birth:</strong> <%= @traveler.dob %><br>
+<h1><%= @traveler.username %></h1>
+<% age = Time.new(@traveler.dob)%>
+<strong>Date Of Birth:</strong> <%= age.strftime("%B %d, %Y") %><br>
 <strong>About Me:</strong><br>
 <%= @traveler.about_me %>
 
