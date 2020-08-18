@@ -1,2 +1,5 @@
 Name of Trip: <%= @trip.name %><br>
-Destination City: <%= @trip.destination.city_name %>
+Destination City: <%= @trip.destination.city_name %><br>
+
+
+<%= link_to "Delete", trip_path(@trip), :confirm => "Are you sure?", :method => :delete %>

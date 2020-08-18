@@ -23,12 +23,13 @@ def update
 end
 
 def show
-
 end
 
 
 def destroy
-    
+    user_id = @trip.traveler_id
+    @trip.destroy
+    redirect_to traveler_path(user_id)
 end
 
 private
@@ -40,4 +41,5 @@ end
 def find_trip
     @trip = Trip.find(params[:id])
 end
+
 end
