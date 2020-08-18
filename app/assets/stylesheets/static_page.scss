@@ -10,7 +10,8 @@
 //         background: url("../assets/images/SF.jpg");
 // }
 
-body {
-        background-image: url("./SF.jpg");
-        background-size: 100%
+.home {
+
+        background: url("./SF.jpg") no-repeat center fixed;    
+        background-size: cover;
       }
