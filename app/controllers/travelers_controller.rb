@@ -22,8 +22,10 @@ def show
 
 end
 
+#Edit this to redirect to a landing page
 def destroy
     @traveler.destroy
+    redirect_to new_traveler_path
 end
 
 private

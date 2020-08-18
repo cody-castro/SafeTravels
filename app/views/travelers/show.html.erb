@@ -5,6 +5,10 @@
 <strong>About Me:</strong><br>
 <%= @traveler.about_me %>
 
+<!-- Edit this to direct to a landing page -->
+<br><%= link_to "Delete Your Account", traveler_path(@traveler), :confirm => "Are you sure you want to delete your account!?", :method => :delete %><br>
+
+
 
 <h2>My Trips</h2>
 <% if @traveler.trips.count > 0%>
