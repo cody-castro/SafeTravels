@@ -160,7 +160,7 @@ record_hash = {
       "name": "Detroit",
       "safetyScores": {
         "lgbtq": 47,
-        "medical": ,
+        "medical": 0,
         "overall": 36,
         "physicalHarm": 27,
         "politicalFreedom": 34,
@@ -175,7 +175,7 @@ record_hash = {
 puts "creating things"
 
 record_hash[:data].each do |place|
-        Destination.create(city_name: place[:name], safety_rating: place[:safetyScores][:overall])
+    Destination.create(city_name: place[:name], lgbtq: place[:safetyScores][:lgbtq], medical: place[:safetyScores][:medical], overall: place[:safetyScores][:overall], physical_harm: place[:safetyScores][:physicalHarm], political_freedom: place[:safetyScores][:politicalFreedom], theft: place[:safetyScores][:theft], women: place[:safetyScores][:women])
 end
 
 

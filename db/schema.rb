@@ -14,7 +14,13 @@ ActiveRecord::Schema.define(version: 2020_08_15_154511) do
 
   create_table "destinations", force: :cascade do |t|
     t.string "city_name"
-    t.integer "safety_rating"
+    t.integer "lgbtq"
+    t.integer "medical"
+    t.integer "overall"
+    t.integer "physical_harm"
+    t.integer "political_freedom"
+    t.integer "theft"
+    t.integer "women"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

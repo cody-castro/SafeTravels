@@ -1,8 +1,15 @@
 <h1><%= @destination.city_name %></h1>
 
-Safety Rating: <%= @destination.safety_rating %>
+Safety Rating: <br>
+LGBTQ+: <%= @destination.lgbtq   %><br>
+Medical: <%=  @destination.medical %><br>
+Overall: <%= @destination.overall %><br>
+Physical Harm: <%= @destination.physical_harm %><br>
+Political Freedom: <%= @destination.political_freedom %><br>
+Theft: <%= @destination.theft %><br>
+Women: <%= @destination.women %><br>
 
-
+Note: <!-- FOR CODY! -->
  <form method="get" action="/trips/new" class="button_to">
       <div><input value="Save Location" type="submit" /></div>
    </form>
