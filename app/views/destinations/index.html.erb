@@ -1,3 +1,19 @@
-<% @destinations.each do |dest|%>
-   <p> <%= link_to dest.city_name, destination_path(dest) %></p>
+
+<h1> Look at all these destinations! </h1>
+
+<div class="destination-container">
+
+   
+   <% @destinations.each do |dest|%>
+   <div class="destination-tile">
+      <p> <%= link_to dest.city_name, destination_path(dest) %></p>
+      <img src="<%=dest.img_url%>">
+   </div>
    <% end%>
+
+   <a href="./SF.jpg">What goes here</a>
+
+
+
+
+</div>

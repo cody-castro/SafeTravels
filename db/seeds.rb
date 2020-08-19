@@ -30,7 +30,8 @@ record_hash = {
         "politicalFreedom": 70,
         "theft": 59,
         "women": 57
-      }
+      },
+      "img_url": "../app/assets/images/bangalore.jpg"
     },
     {
 
@@ -48,7 +49,8 @@ record_hash = {
         "politicalFreedom": 50,
         "theft": 44,
         "women": 34
-      }
+      },
+      "img_url": "../app/assets/images/barcelona.jpg"
     },
     {
       "subType": "CITY",
@@ -65,7 +67,8 @@ record_hash = {
         "politicalFreedom": 23,
         "theft": 55,
         "women": 26
-      }
+      },
+      "img_url": "../app/assets/images/SF.jpg"
     },
     {
       "subType": "CITY",
@@ -82,7 +85,8 @@ record_hash = {
         "politicalFreedom": 26,
         "theft": 35,
         "women": 34
-      }
+      },
+      "img_url": "../app/assets/images/berlin.jpg"
     },
     {
         "subType": "CITY",
@@ -99,7 +103,8 @@ record_hash = {
           "politicalFreedom": 42,
           "theft": 50,
           "women": 35
-        }
+        },
+        "img_url": "../app/assets/images/dallas.jpg"
       },
       {
         "subType": "CITY",
@@ -116,7 +121,8 @@ record_hash = {
           "politicalFreedom": 26,
           "theft": 36,
           "women": 38
-        }
+        },
+        "img_url": "../app/assets/images/london.jpg"
       },
       {
 
@@ -134,7 +140,8 @@ record_hash = {
         "politicalFreedom": 40,
         "theft": 27,
         "women": 26
-      }
+      },
+      "img_url": "../app/assets/images/nyc.jpg"
     },
     {
 
@@ -152,7 +159,8 @@ record_hash = {
         "politicalFreedom": 34,
         "theft": 32,
         "women": 30
-      }
+      },
+      "img_url": "../assets/images/paris.jpg"
     },
     {
 
@@ -166,8 +174,9 @@ record_hash = {
         "politicalFreedom": 34,
         "theft": 32,
         "women": 30
-      }
-    },
+      },
+      "img_url": ""
+    }
 
   ]
 }
@@ -175,7 +184,7 @@ record_hash = {
 puts "creating things"
 
 record_hash[:data].each do |place|
-    Destination.create(city_name: place[:name], lgbtq: place[:safetyScores][:lgbtq], medical: place[:safetyScores][:medical], overall: place[:safetyScores][:overall], physical_harm: place[:safetyScores][:physicalHarm], political_freedom: place[:safetyScores][:politicalFreedom], theft: place[:safetyScores][:theft], women: place[:safetyScores][:women])
+    Destination.create(city_name: place[:name], lgbtq: place[:safetyScores][:lgbtq], medical: place[:safetyScores][:medical], overall: place[:safetyScores][:overall], physical_harm: place[:safetyScores][:physicalHarm], political_freedom: place[:safetyScores][:politicalFreedom], theft: place[:safetyScores][:theft], women: place[:safetyScores][:women], img_url: place[:img_url])
 end
 
 

@@ -23,3 +23,14 @@
     -o-background-size: cover;
   }
  
+  .destination-container {
+      display: flex;
+      flex-flow: row wrap;
+      background-color: rgba(255, 255, 255, 0.3);
+      justify-content: space-around;
+      padding: 10px;
+  }
+  
+  .destination-tile {
+    margin: 10px;
+  }
