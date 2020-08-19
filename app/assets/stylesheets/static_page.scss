@@ -5,29 +5,52 @@
 
 
 .home {
-        background: url("./SF.jpg") no-repeat center fixed;    
+        $randomNumber: random(8);
+        background: url("./background_#{$randomNumber}") no-repeat center fixed;    
         background-size: cover;
       }
 
 .rainbow-text {
+    font-family: 'Fredoka One', cursive;
     margin: 0;
+    font-size: 50px;
     position: absolute;
     top: 50%;
     left: 50%;
     margin-right: -50%;
-    transform: translate(-50%, -50%); 
-    background-image: linear-gradient(to left, #740B73, #0375B3, #014244, #FDB745, #FD8235, #FF4537);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    stroke: 10px;
+    transform: translate(-50%, -50%);
+    color: #d8b916;
+    text-shadow: -1px 6px 18px #012e4c;
+    -webkit-text-stroke: #7f6c05;
+    -webkit-text-stroke-width: 1px;
+
+    //background-image: linear-gradient(to left, #740B73, #0375B3, #014244, #FDB745, #FD8235, #FF4537);
+    //-webkit-background-clip: text;
+    //-webkit-text-fill-color: transparent;
+    //stroke: 10px;
 }
 
 
 .user-buttons{
     margin: 0;
     position: absolute;
-    top: 55%;
+    top: 60%;
     left: 50%;
     margin-right: -50%;
-    transform: translate(-50%, -50%) 
+    transform: translate(-50%, -50%);
+    //width: 50px;
+    //height: 70px;
+    border-radius: 10px;
+
+
+}
+
+.primary-button {
+    border-radius: 5px;
+    width: auto;
+}
+
+.secondary-button {
+    border-radius: 5px;
+    width: 75px;
 }
