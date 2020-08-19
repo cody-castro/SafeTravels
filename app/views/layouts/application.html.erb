@@ -12,6 +12,14 @@
   
   
   <body>
+  <div class='nav'>
+      </div>
+      <ul>
+        <% if @current_user %>
+          <li class='right'>Welcome <%= @current_user.username %>!</li>
+          <li class='right'><%= link_to "Log-Out", logout_path, method: :delete%></li>
+        <% end %>
+      </ul>
     <%= yield %>
       <div class= "body">
       </div>

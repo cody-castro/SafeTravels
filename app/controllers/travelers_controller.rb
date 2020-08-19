@@ -1,5 +1,6 @@
 class TravelersController < ApplicationController
 before_action :find_traveler, only: [:show, :edit, :destroy, :update]
+skip_before_action :authorized, only: [:new, :create]
 def new
     @traveler = Traveler.new
 end
@@ -8,6 +9,7 @@ def create
     @traveler = Traveler.create(traveler_settings)
 
     if @traveler.valid?
+        session[:user_id] = @traveler.id
     redirect_to traveler_path(@traveler)
 
     else
@@ -46,7 +48,7 @@ end
 private
 
 def traveler_settings
-    params.require(:traveler).permit(:username, :dob, :password_digest, :about_me)
+    params.require(:traveler).permit(:username, :dob, :password, :about_me)
 end
 
 def find_traveler
