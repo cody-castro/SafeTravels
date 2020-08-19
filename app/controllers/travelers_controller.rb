@@ -6,16 +6,31 @@ end
 
 def create
     @traveler = Traveler.create(traveler_settings)
+
+    if @traveler.valid?
     redirect_to traveler_path(@traveler)
+
+    else
+        flash[:errors] = @traveler.errors.full_messages
+        redirect_to new_traveler_path
+    end
 end
 
 def edit
-
+    
 end
 
 def update
     @traveler.update(traveler_settings)
+    
+    if @traveler.valid?
     redirect_to traveler_path(@traveler)
+    
+    else
+        flash[:errors] = @traveler.errors.full_messages
+        redirect_to new_traveler_path
+    end
+
 end
 
 def show
@@ -25,7 +40,7 @@ end
 #Edit this to redirect to a landing page
 def destroy
     @traveler.destroy
-    redirect_to new_traveler_path
+    redirect_to root_path
 end
 
 private

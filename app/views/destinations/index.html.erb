@@ -11,7 +11,11 @@
    </div>
    <% end%>
 
-   <a href="./SF.jpg">What goes here</a>
+<%= form_tag(destinations_path, method: :get) do %>
+<% label_tag "lgbtq", "safest" %>
+<% number_field_tag "Insert number"%>
+<% submit_tag "Search"%>
+<%end%>
 
 
 
