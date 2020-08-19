@@ -4,14 +4,30 @@
 
 
 
-// body {
-//         width:100%;
-//         height: 400px;
-//         background: url("../assets/images/SF.jpg");
-// }
-
 .home {
-
         background: url("./SF.jpg") no-repeat center fixed;    
         background-size: cover;
       }
+
+.rainbow-text {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+    background-image: linear-gradient(to left, #740B73, #0375B3, #014244, #FDB745, #FD8235, #FF4537);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    stroke: 10px;
+}
+
+
+.login_signup {
+    margin: 0;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
