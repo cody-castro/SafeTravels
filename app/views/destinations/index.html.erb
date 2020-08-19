@@ -1,15 +1,25 @@
 
 <h1> Look at all these destinations! </h1>
+ <select id="Ratings">
+    <option value = "lgbt">LGBT+</option>
+    <option value = "women">WOMEN</option>
+    <option value = "theft">THEFT</option>
+    <option value = "overall">OVERALL</option>
+    </select>
+
+
 
 <div class="destination-container">
-
+ 
    
    <% @destinations.each do |dest|%>
    <div class="destination-tile">
       <p> <%= link_to dest.city_name, destination_path(dest) %></p>
-      <img src="<%=dest.img_url%>">
+      <img src="<%="app/assets/images/berlin.jpg"%>">
+      <%= image_tag "#{dest.img_url}", width: 200, height: 200 %>
    </div>
-   <% end%>
+   <% end %>
+
 
 <%= form_tag(destinations_path, method: :get) do %>
 <% label_tag "lgbtq", "safest" %>
