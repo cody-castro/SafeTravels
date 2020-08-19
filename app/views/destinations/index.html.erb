@@ -8,17 +8,23 @@
     </select>
 
 
+<div id="destinations">
 
-<div class="destination-container">
- 
-   
-   <% @destinations.each do |dest|%>
-   <div class="destination-tile">
-      <p> <%= link_to dest.city_name, destination_path(dest) %></p>
-      <img src="<%="app/assets/images/berlin.jpg"%>">
-      <%= image_tag "#{dest.img_url}", width: 200, height: 200 %>
-   </div>
-   <% end %>
+      <% @destinations.each do |dest|%>
+      <div class="destination-container">
+         <p> <%= link_to dest.city_name, destination_path(dest) %></p>
+         <p><%= image_tag "#{dest.img_url}", width: 200, height: 200%> </p>
+      </div>
+      <% end%>
+      
+
+
+
+
+      
+
+      
+</div>
 
 
 <%= form_tag(destinations_path, method: :get) do %>

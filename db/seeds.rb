@@ -175,7 +175,7 @@ record_hash = {
         "theft": 32,
         "women": 30
       },
-      "img_url": ""
+      "img_url": "nyc.jpg"
     }
 
   ]

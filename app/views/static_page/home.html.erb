@@ -1,10 +1,15 @@
+
+
+
 <body class="home">
     <!--Everytime the page loads the background image changes-->
 <p><h1 class= "rainbow-text"> Welcome to SafeTravels! </h1></p>
 <br>
 
-<p><div class = "login_signup"> <%=link_to "New User?", new_traveler_path %>
-<%=link_to "Sign In", new_login_path %> 
+<div class ="user-buttons">
+<p><button class="primary-button"> <%=link_to "New User?", new_traveler_path %></button></p>
+<p><button class="secondary-button"><%=link_to "Sign In", new_login_path %></button></p> 
 </div></p>
+
 
 </body>
