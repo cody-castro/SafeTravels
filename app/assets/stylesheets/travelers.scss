@@ -57,17 +57,26 @@
   .delete {
       background:  #ff4537;
       font-weight: bold;
-      margin-top: 370px;
+      margin-top: 15px;
       margin-left: 370px ;
     } 
     
    .my-trips {
        margin-left: 775px;
        margin-bottom: 175px;
-       margin-top: -550px;
+       margin-top: -515px;
    }
 
    .my-info {
        margin-top: 110px;
        margin-left: 370px;
    }
+
+   .edit {
+       margin-left: 370px;
+       margin-top: 300px;
+       background-color: #012e4c;
+       font-weight: bold;
+       font-family: 'Roboto', sans-serif;
+}
+   

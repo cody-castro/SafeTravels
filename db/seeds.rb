@@ -68,7 +68,7 @@ record_hash = {
         "theft": 55,
         "women": 26
       },
-      "img_url": "background_2.jpg"
+      "img_url": "background_8.jpg"
     },
     {
       "subType": "CITY",
@@ -86,7 +86,7 @@ record_hash = {
         "theft": 35,
         "women": 34
       },
-      "img_url": "background_3.jpg"
+      "img_url": "background_2.jpg"
     },
     {
         "subType": "CITY",
@@ -104,7 +104,7 @@ record_hash = {
           "theft": 50,
           "women": 35
         },
-        "img_url": "background_4.jpg"
+        "img_url": "background_3.jpg"
       },
       {
         "subType": "CITY",
@@ -175,7 +175,196 @@ record_hash = {
         "theft": 32,
         "women": 30
       },
-      "img_url": "background_8.jpg"
+      "img_url": "background_4.jpg"
+    },
+    {
+
+      "subType": "CITY",
+      "name": "Hong Kong",
+      "geoCode": {
+        "latitude": 41.385064,
+        "longitude": 2.173404
+      },
+      "safetyScores": {
+        "lgbtq": 39,
+        "medical": 0,
+        "overall": 45,
+        "physicalHarm": 36,
+        "politicalFreedom": 50,
+        "theft": 44,
+        "women": 34
+      },
+      "img_url": "background_1.jpg"
+    },
+    {
+      "subType": "CITY",
+      "name": "Accra",
+      "geoCode": {
+        "latitude": 37.77493,
+        "longitude": -122.419416
+      },
+      "safetyScores": {
+        "lgbtq": 33,
+        "medical": 72,
+        "overall": 40,
+        "physicalHarm": 32,
+        "politicalFreedom": 23,
+        "theft": 55,
+        "women": 26
+      },
+      "img_url": "accra-50.jpg"
+    },
+    {
+      "subType": "CITY",
+      "name": "Manila",
+      "geoCode": {
+        "latitude": 52.519171,
+        "longitude": 13.406091
+      },
+      "safetyScores": {
+        "lgbtq": 34,
+        "medical": 0,
+        "overall": 35,
+        "physicalHarm": 33,
+        "politicalFreedom": 26,
+        "theft": 35,
+        "women": 34
+      },
+      "img_url": "manila-30.jpg"
+    },
+    {
+        "subType": "CITY",
+        "name": "Venice",
+        "geoCode": {
+          "latitude": 32.78014,
+          "longitude": -96.800451
+        },
+        "safetyScores": {
+          "lgbtq": 51,
+          "medical": 70,
+          "overall": 50,
+          "physicalHarm": 50,
+          "politicalFreedom": 42,
+          "theft": 50,
+          "women": 35
+        },
+        "img_url": "venice-30.jpg"
+      },
+      {
+        "subType": "CITY",
+        "name": "Auckland",
+        "geoCode": {
+          "latitude": 51.511214,
+          "longitude": -0.119824
+        },
+        "safetyScores": {
+          "lgbtq": 39,
+          "medical": 0,
+          "overall": 42,
+          "physicalHarm": 39,
+          "politicalFreedom": 26,
+          "theft": 36,
+          "women": 38
+        },
+        "img_url": "Auckland.jpg"
+      },
+      {
+
+      "subType": "CITY",
+      "name": "Phuket",
+      "geoCode": {
+        "latitude": 40.755653,
+        "longitude": -73.985303
+      },
+      "safetyScores": {
+        "lgbtq": 35,
+        "medical": 73,
+        "overall": 39,
+        "physicalHarm": 30,
+        "politicalFreedom": 40,
+        "theft": 27,
+        "women": 26
+      },
+      "img_url": "background_6.jpg"
+    },
+    {
+
+      "subType": "CITY",
+      "name": "Toronto",
+      "geoCode": {
+        "latitude": 48.856614,
+        "longitude": 2.3522219
+      },
+      "safetyScores": {
+        "lgbtq": 28,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 27,
+        "politicalFreedom": 34,
+        "theft": 32,
+        "women": 30
+      },
+      "img_url": "toronto.jpg"
+    },
+    {
+
+      "subType": "CITY",
+      "name": "Tokyo",
+      "safetyScores": {
+        "lgbtq": 47,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 27,
+        "politicalFreedom": 34,
+        "theft": 32,
+        "women": 30
+      },
+      "img_url": "tokyo-30.jpg"
+    },
+    {
+
+      "subType": "CITY",
+      "name": "Cairo",
+      "safetyScores": {
+        "lgbtq": 47,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 27,
+        "politicalFreedom": 34,
+        "theft": 32,
+        "women": 30
+      },
+      "img_url": "cairo-50"
+    },
+    {
+
+      "subType": "CITY",
+      "name": "Tel Aviv",
+      "safetyScores": {
+        "lgbtq": 47,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 27,
+        "politicalFreedom": 34,
+        "theft": 32,
+        "women": 30
+      },
+      "img_url": "tel-aviv.jpg"
+    },
+    {
+
+      "subType": "CITY",
+      "name": "San Juan",
+      "safetyScores": {
+        "lgbtq": 47,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 27,
+        "politicalFreedom": 34,
+        "theft": 32,
+        "women": 30
+      },
+      "img_url": "san-juan-50.jpg"
     }
 
   ]
