@@ -56,4 +56,12 @@
 .nav_bar {
   background-color: #012e4c;
   font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.right {
+  background-color: #012e4c;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
 }
