@@ -16,14 +16,14 @@
   
   
   <body>
-  <div class='nav'>
-      </div>
-      <ul>
+      <div class='nav'>
+        <button class="nav_bar"><%= link_to 'Destination Home', destinations_path %></button>
         <% if @current_user %>
-          <li class='right'>Welcome <%= @current_user.username %>!</li>
+          <li class='right'>Welcome <%=link_to @current_user.username, traveler_path(@current_user) %>!</li>
           <li class='right'><%= link_to "Log-Out", logout_path, method: :delete%></li>
         <% end %>
-      </ul>
+      
+      </div>
     <%= yield %>
     
       <div class= "body">

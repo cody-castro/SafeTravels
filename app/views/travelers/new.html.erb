@@ -1,6 +1,31 @@
 <div class= "form">
+<% if flash[:errors] %>
+<% flash[:errors].each do |e| %>
+<%= e %>
+<% end %>
+<% end %>
 
 
-    <%= render 'form' %>
+<%= form_for @traveler do |f| %>
+    <%= f.label :username %>
+    <%= f.text_field :username %><br>
+    <%= f.label :Date_Of_Birth %>
+    <%= f.date_field :dob %><br>
+
+<%= f.label :password %>
+    <%= f.password_field :password %><br>
+<%= f.label :about_me %>
+    <%= f.text_area :about_me %><br>
+     <%= f.submit "Create Account" %>
+    <% end%>
+
+
+     <button><%= link_to "Already have an account?",  new_login_path%>
 
 </div>
+
+<marquee behavior="scroll" direction="left" scrollamount="25">
+    <img src="https://theweeklytrends.com/wp-content/uploads/2019/10/zz1-24.jpg" width="400" height="400" alt="Natural" />
+  </marquee>
+
+

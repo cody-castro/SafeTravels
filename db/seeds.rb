@@ -31,7 +31,7 @@ record_hash = {
         "theft": 59,
         "women": 57
       },
-      "img_url": "bangalore.jpg"
+      "img_url": "background_0.jpg"
     },
     {
 
@@ -50,7 +50,7 @@ record_hash = {
         "theft": 44,
         "women": 34
       },
-      "img_url": "barcelona.jpg"
+      "img_url": "background_1.jpg"
     },
     {
       "subType": "CITY",
@@ -68,7 +68,7 @@ record_hash = {
         "theft": 55,
         "women": 26
       },
-      "img_url": "SF.jpg"
+      "img_url": "background_2.jpg"
     },
     {
       "subType": "CITY",
@@ -86,7 +86,7 @@ record_hash = {
         "theft": 35,
         "women": 34
       },
-      "img_url": "berlin.jpg"
+      "img_url": "background_3.jpg"
     },
     {
         "subType": "CITY",
@@ -104,7 +104,7 @@ record_hash = {
           "theft": 50,
           "women": 35
         },
-        "img_url": "dallas.jpg"
+        "img_url": "background_4.jpg"
       },
       {
         "subType": "CITY",
@@ -122,7 +122,7 @@ record_hash = {
           "theft": 36,
           "women": 38
         },
-        "img_url": "london.jpg"
+        "img_url": "background_5.jpg"
       },
       {
 
@@ -141,7 +141,7 @@ record_hash = {
         "theft": 27,
         "women": 26
       },
-      "img_url": "nyc.jpg"
+      "img_url": "background_6.jpg"
     },
     {
 
@@ -160,7 +160,7 @@ record_hash = {
         "theft": 32,
         "women": 30
       },
-      "img_url": "paris.jpg"
+      "img_url": "background_7.jpg"
     },
     {
 
@@ -175,7 +175,7 @@ record_hash = {
         "theft": 32,
         "women": 30
       },
-      "img_url": "detroit.jpg"
+      "img_url": "background_8.jpg"
     }
 
   ]

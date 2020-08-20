@@ -1,9 +1,9 @@
-<%= form_for @trip do |f| %>
-<%= f.label :traveler %>
-<%= f.collection_select :traveler_id, @travelers.order('username ASC'), :id, :username %>
-<%= f.label :destination %>
-<%= f.collection_select :destination_id, @destinations.order('city_name ASC'), :id, :city_name %>
-<%= f.label :name %>
-<%= f.text_field :name %>
-<%= f.submit %>
+<p><%= form_for @trip do |f| %></p>
+<p><%= f.label :traveler %></p>
+<p><%= f.collection_select :traveler_id, @travelers.order('username ASC'), :id, :username %></p>
+<p><%= f.label :destination %></p>
+<p><%= f.collection_select :destination_id, @destinations.order('city_name ASC'), :id, :city_name %></p>
+<p><%= f.label :name %></p>
+<p><%= f.text_field :name %></p>
+<p><%= f.submit %></p>
 <% end%>

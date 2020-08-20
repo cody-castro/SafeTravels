@@ -3,6 +3,8 @@ before_action :find_traveler, only: [:show, :edit, :destroy, :update]
 skip_before_action :authorized, only: [:new, :create]
 def new
     @traveler = Traveler.new
+    @destinations = Destination.all
+    @destination = Destination.first
 end
 
 def create
