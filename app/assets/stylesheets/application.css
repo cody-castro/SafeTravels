@@ -25,6 +25,7 @@
   background-size: cover;
   -o-background-size: cover;
   background-color: rgb(198, 200, 205); 
+  font-family: 'Roboto', sans-serif;
 }
 
 .nav {
@@ -49,4 +50,10 @@
   margin-right: 550px;
   margin-top: 65px;
 
+}
+
+
+.nav_bar {
+  background-color: #012e4c;
+  font-weight: bold;
 }

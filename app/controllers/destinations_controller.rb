@@ -8,6 +8,7 @@ end
 
 def show
     @destination = Destination.find(params[:id])
+    flash[:dest_id] = @destination.id
 end
 
 # private

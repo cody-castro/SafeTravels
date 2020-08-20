@@ -12,8 +12,8 @@
 
       <% @destinations.each do |dest|%>
       <div class="destination-container">
-         <p> <%= link_to dest.city_name, destination_path(dest) %></p>
-         <p><%= image_tag "#{dest.img_url}", width: 200, height: 200%> </p>
+         <p class= "city-name"> <%= link_to dest.city_name, destination_path(dest) %></p>
+         <p class= "city-image"><%= image_tag "#{dest.img_url}", width: 200, height: 200%> </p>
       </div>
       <% end%>
       

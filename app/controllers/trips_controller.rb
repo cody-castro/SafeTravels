@@ -9,7 +9,7 @@ end
 
 def create
     @trip = Trip.create(trip_settings)
-    redirect_to traveler_path(@trip.traveler_id)
+    redirect_to traveler_path(session[:user_id])
 end
 
 def edit
@@ -19,7 +19,7 @@ end
 
 def update
     @trip.update(trip_settings)
-    redirect_to traveler_path(@trip.traveler_id)
+    redirect_to traveler_path(session[:user_id])
 end
 
 def show

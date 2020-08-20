@@ -6,4 +6,23 @@
 
 
 
+.login-marquee-wrapper {
+    position: relative;
+    width: 100vw;
+    height: 400px;
+    max-width: 100%;
+    overflow-x: hidden;
+}
 
+.login-marquee-contents {
+    position: absolute;
+    white-space: nowrap;
+    will-change: transform;
+    animation: marquee 20s linear infinite;
+}
+
+@keyframes marquee {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
+  

@@ -11,9 +11,36 @@
 <%= form_for :session, url: login_path do |f| %>
   <%= f.label :username %>
   <%= f.text_field :username  %>
+  <br>
 
   <%= f.label :password %>
   <%= f.password_field :password %>
 
-  <%= f.submit %>
+  <%= f.submit "Sign in!" %>
 <% end %>
+
+<%= link_to "Don't have an account? Create one now!", new_traveler_path %>
+
+
+<div class= "login-marquee-wrapper">
+  <div class="login-marquee-contents">
+      <%=image_tag "background_0.jpg", width:400, height:400, alt:"Natural" %>
+      <%=image_tag "background_1.jpg", width:400, height:400, alt:"Natural" %>
+      <%=image_tag "background_2.jpg", width:400, height:400, alt:"Natural" %>
+      <%=image_tag "background_3.jpg", width:400, height:400, alt:"Natural" %>
+      <%=image_tag "background_4.jpg", width:400, height:400, alt:"Natural" %>
+      <%=image_tag "background_5.jpg", width:400, height:400, alt:"Natural" %>
+      <%=image_tag "background_6.jpg", width:400, height:400, alt:"Natural" %>
+      <%=image_tag "background_7.jpg", width:400, height:400, alt:"Natural" %>
+      <%=image_tag "background_8.jpg", width:400, height:400, alt:"Natural" %>
+      <%=image_tag "background_0.jpg", width:400, height:400, alt:"Natural" %>
+      <%=image_tag "background_1.jpg", width:400, height:400, alt:"Natural" %>
+      <%=image_tag "background_2.jpg", width:400, height:400, alt:"Natural" %>
+      <%=image_tag "background_3.jpg", width:400, height:400, alt:"Natural" %>
+      <%=image_tag "background_4.jpg", width:400, height:400, alt:"Natural" %>
+      <%=image_tag "background_5.jpg", width:400, height:400, alt:"Natural" %>
+      <%=image_tag "background_6.jpg", width:400, height:400, alt:"Natural" %>
+      <%=image_tag "background_7.jpg", width:400, height:400, alt:"Natural" %>
+      <%=image_tag "background_8.jpg", width:400, height:400, alt:"Natural" %>
+  </div>
+</div>

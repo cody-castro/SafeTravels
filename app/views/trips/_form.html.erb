@@ -1,9 +1,12 @@
 <p><%= form_for @trip do |f| %></p>
-<p><%= f.label :traveler %></p>
-<p><%= f.collection_select :traveler_id, @travelers.order('username ASC'), :id, :username %></p>
-<p><%= f.label :destination %></p>
-<p><%= f.collection_select :destination_id, @destinations.order('city_name ASC'), :id, :city_name %></p>
-<p><%= f.label :name %></p>
-<p><%= f.text_field :name %></p>
+<% f.text_field :traveler_id, value: session[:user_id]%>
+<p><%= f.hidden_field :traveler_id, value: session[:user_id]%> </p>
+
+<p><%= f.hidden_field :destination_id, value: flash[:dest_id]%> </p>
+
+<p><%= f.label "What would you like to name your trip?" %></p>
+<p><%= f.text_field :name, placeholder: "Vacation? Business?" %>  </p>
 <p><%= f.submit %></p>
+
+
 <% end%>
