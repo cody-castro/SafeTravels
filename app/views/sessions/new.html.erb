@@ -1,5 +1,7 @@
-<h1>Login</h1>
+<div class="login-text">
 
+<h1 class="login">Login</h1>
+<span class="login-fields">
 <% if flash[:error] %>
   <%= flash[:error] %>
 <% end %>
@@ -9,18 +11,19 @@
   <% end %>
 
 <%= form_for :session, url: login_path do |f| %>
-  <%= f.label :username %>
-  <%= f.text_field :username  %>
+ 
+  <%= f.text_field :username, placeholder: "Username" %>
   <br>
 
-  <%= f.label :password %>
-  <%= f.password_field :password %>
+  
+  <%= f.password_field :password, placeholder: "Password" %>
 
   <%= f.submit "Sign in!" %>
 <% end %>
 
 <%= link_to "Don't have an account? Create one now!", new_traveler_path %>
 
+</div>
 
 <div class= "login-marquee-wrapper">
   <div class="login-marquee-contents">
