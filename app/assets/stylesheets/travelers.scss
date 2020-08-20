@@ -1,6 +1,23 @@
 // Place all the styles related to the Travelers controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+.new-traveler-account {
+    margin-top: 35px;
+    margin-left: 350px;
+}
+
+.form.sign-up {
+    margin-top: 15px;
+    margin-left: 600px;
+}
+
+.form-fields {
+    margin-top: 5px;
+    margin-left: 15px;
+}
+.form-submit {
+    margin-left: 45px;
+}
 
 .login {
     margin-left:55px;
@@ -10,13 +27,13 @@
 }
 
 .login-text {
-    margin-top: 45px;
+    margin-top: 25px;
     margin-left: 584px;
 }
 
 
 .login-marquee-wrapper {
-    margin-top: 100px;
+    margin-top: 60px;
     position: relative;
     width: 100vw;
     height: 400px;
