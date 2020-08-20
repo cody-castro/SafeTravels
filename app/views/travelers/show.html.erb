@@ -1,3 +1,4 @@
+<div class="my-info">
 <h1><%= @traveler.username %></h1>
 <% year = @traveler.dob.slice(0,4).to_i%>
 <% month = @traveler.dob.slice(5,7).to_i%>
@@ -6,17 +7,19 @@
 <strong>Date Of Birth:</strong> <%= age %><br>
 <strong>About Me:</strong><br>
 <%= @traveler.about_me %>
+</div>
 
 <!-- Edit this to direct to a landing page -->
-<br><%= link_to "Delete Your Account", traveler_path(@traveler), :confirm => "Are you sure you want to delete your account!?", :method => :delete %><br>
+<br><button class="delete"> <%= link_to "Delete Account?", traveler_path(@traveler), :confirm => "Are you sure you want to delete your account!?", :method => :delete %> </button> <br>
 
-
-
-<h2>My Trips</h2>
+<div class="my-trips">
+<h1>My Trips</h1>
 <% if @traveler.trips.count > 0%>
     <% @traveler.trips.each do |trip| %>
         <p><%= link_to trip.name, trip_path(trip) %></p>
+         <%= image_tag trip.destination.img_url, width: 100 %>
     <% end%>
    <% else %>
    You have no destinations <%= link_to "Find destination", destinations_path %>
 <% end%>
+</div>
