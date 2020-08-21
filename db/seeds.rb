@@ -8,9 +8,9 @@
 
 
 
-#Trip.destroy_all
+Trip.destroy_all
 Destination.destroy_all
-#Traveler.destroy_all
+Traveler.destroy_all
 
 record_hash = {
   "data": [
@@ -194,7 +194,7 @@ record_hash = {
         "theft": 44,
         "women": 34
       },
-      "img_url": "background_1.jpg"
+      "img_url": "hong-kong-30.jpg"
     },
     {
       "subType": "CITY",
@@ -285,7 +285,7 @@ record_hash = {
         "theft": 27,
         "women": 26
       },
-      "img_url": "background_6.jpg"
+      "img_url": "phuket-30.jpg"
     },
     {
 
@@ -365,6 +365,358 @@ record_hash = {
         "women": 30
       },
       "img_url": "san-juan-50.jpg"
+    },
+    {
+
+      "subType": "CITY",
+      "name": "Singapore",
+      "geoCode": {
+        "latitude": 12.971599,
+        "longitude": 77.594563
+      },
+      "safetyScores": {
+        "lgbtq": 66,
+        "medical": 81,
+        "overall": 66,
+        "physicalHarm": 63,
+        "politicalFreedom": 70,
+        "theft": 59,
+        "women": 57
+      },
+      "img_url": "singapore-30"
+    },
+    {
+
+      "subType": "CITY",
+      "name": "Taipei",
+      "geoCode": {
+        "latitude": 41.385064,
+        "longitude": 2.173404
+      },
+      "safetyScores": {
+        "lgbtq": 39,
+        "medical": 0,
+        "overall": 45,
+        "physicalHarm": 36,
+        "politicalFreedom": 50,
+        "theft": 44,
+        "women": 34
+      },
+      "img_url": "taipei-30"
+    },
+    {
+      "subType": "CITY",
+      "name": "Moscow",
+      "geoCode": {
+        "latitude": 37.77493,
+        "longitude": -122.419416
+      },
+      "safetyScores": {
+        "lgbtq": 33,
+        "medical": 72,
+        "overall": 40,
+        "physicalHarm": 32,
+        "politicalFreedom": 23,
+        "theft": 55,
+        "women": 26
+      },
+      "img_url": "moscow-30"
+    },
+    {
+      "subType": "CITY",
+      "name": "Lima",
+      "geoCode": {
+        "latitude": 52.519171,
+        "longitude": 13.406091
+      },
+      "safetyScores": {
+        "lgbtq": 34,
+        "medical": 0,
+        "overall": 35,
+        "physicalHarm": 33,
+        "politicalFreedom": 26,
+        "theft": 35,
+        "women": 34
+      },
+      "img_url": "lima-30"
+    },
+    {
+        "subType": "CITY",
+        "name": "Frankfurt",
+        "geoCode": {
+          "latitude": 32.78014,
+          "longitude": -96.800451
+        },
+        "safetyScores": {
+          "lgbtq": 51,
+          "medical": 70,
+          "overall": 50,
+          "physicalHarm": 50,
+          "politicalFreedom": 42,
+          "theft": 50,
+          "women": 35
+        },
+        "img_url": "frankfurt-30"
+      },
+      {
+        "subType": "CITY",
+        "name": "Seoul",
+        "geoCode": {
+          "latitude": 51.511214,
+          "longitude": -0.119824
+        },
+        "safetyScores": {
+          "lgbtq": 39,
+          "medical": 0,
+          "overall": 42,
+          "physicalHarm": 39,
+          "politicalFreedom": 26,
+          "theft": 36,
+          "women": 38
+        },
+        "img_url": "seoul-30"
+      },
+      {
+
+      "subType": "CITY",
+      "name": "Buenos Aires",
+      "geoCode": {
+        "latitude": 40.755653,
+        "longitude": -73.985303
+      },
+      "safetyScores": {
+        "lgbtq": 35,
+        "medical": 73,
+        "overall": 39,
+        "physicalHarm": 30,
+        "politicalFreedom": 40,
+        "theft": 27,
+        "women": 26
+      },
+      "img_url": "buenos-aires-30"
+    },
+    {
+
+      "subType": "CITY",
+      "name": "Sydney",
+      "geoCode": {
+        "latitude": 48.856614,
+        "longitude": 2.3522219
+      },
+      "safetyScores": {
+        "lgbtq": 28,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 27,
+        "politicalFreedom": 34,
+        "theft": 32,
+        "women": 30
+      },
+      "img_url": "sydney-30"
+    },
+    {
+
+      "subType": "CITY",
+      "name": "Dublin",
+      "safetyScores": {
+        "lgbtq": 47,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 27,
+        "politicalFreedom": 34,
+        "theft": 32,
+        "women": 30
+      },
+      "img_url": "dublin-30"
+    },
+    {
+
+      "subType": "CITY",
+      "name": "Delhi",
+      "geoCode": {
+        "latitude": 41.385064,
+        "longitude": 2.173404
+      },
+      "safetyScores": {
+        "lgbtq": 39,
+        "medical": 0,
+        "overall": 45,
+        "physicalHarm": 36,
+        "politicalFreedom": 50,
+        "theft": 44,
+        "women": 34
+      },
+      "img_url": "delhi-30"
+    },
+    {
+      "subType": "CITY",
+      "name": "Ho Chi Minh",
+      "geoCode": {
+        "latitude": 37.77493,
+        "longitude": -122.419416
+      },
+      "safetyScores": {
+        "lgbtq": 33,
+        "medical": 72,
+        "overall": 40,
+        "physicalHarm": 32,
+        "politicalFreedom": 23,
+        "theft": 55,
+        "women": 26
+      },
+      "img_url": "ho-chi-minh-30"
+    },
+    {
+      "subType": "CITY",
+      "name": "Los Angeles",
+      "geoCode": {
+        "latitude": 52.519171,
+        "longitude": 13.406091
+      },
+      "safetyScores": {
+        "lgbtq": 34,
+        "medical": 0,
+        "overall": 35,
+        "physicalHarm": 33,
+        "politicalFreedom": 26,
+        "theft": 35,
+        "women": 34
+      },
+      "img_url": "los-angeles-30"
+    },
+    {
+        "subType": "CITY",
+        "name": "Istanbul",
+        "geoCode": {
+          "latitude": 32.78014,
+          "longitude": -96.800451
+        },
+        "safetyScores": {
+          "lgbtq": 51,
+          "medical": 70,
+          "overall": 50,
+          "physicalHarm": 50,
+          "politicalFreedom": 42,
+          "theft": 50,
+          "women": 35
+        },
+        "img_url": "istanbul-30"
+      },
+      {
+        "subType": "CITY",
+        "name": "Mexico City",
+        "geoCode": {
+          "latitude": 51.511214,
+          "longitude": -0.119824
+        },
+        "safetyScores": {
+          "lgbtq": 39,
+          "medical": 0,
+          "overall": 42,
+          "physicalHarm": 39,
+          "politicalFreedom": 26,
+          "theft": 36,
+          "women": 38
+        },
+        "img_url": "mexico-city-30"
+      },
+      {
+
+      "subType": "CITY",
+      "name": "Johannesburg",
+      "geoCode": {
+        "latitude": 40.755653,
+        "longitude": -73.985303
+      },
+      "safetyScores": {
+        "lgbtq": 35,
+        "medical": 73,
+        "overall": 39,
+        "physicalHarm": 30,
+        "politicalFreedom": 40,
+        "theft": 27,
+        "women": 26
+      },
+      "img_url": "johannesburg-30"
+    },
+    {
+
+      "subType": "CITY",
+      "name": "Kuala Lumpur",
+      "geoCode": {
+        "latitude": 48.856614,
+        "longitude": 2.3522219
+      },
+      "safetyScores": {
+        "lgbtq": 28,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 27,
+        "politicalFreedom": 34,
+        "theft": 32,
+        "women": 30
+      },
+      "img_url": "kuala-lumpur-30"
+    },
+    {
+
+      "subType": "CITY",
+      "name": "Dubai",
+      "safetyScores": {
+        "lgbtq": 47,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 27,
+        "politicalFreedom": 34,
+        "theft": 32,
+        "women": 30
+      },
+      "img_url": "dubai-30"
+    },
+    {
+
+      "subType": "CITY",
+      "name": "Bangkok",
+      "safetyScores": {
+        "lgbtq": 47,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 27,
+        "politicalFreedom": 34,
+        "theft": 32,
+        "women": 30
+      },
+      "img_url": "bangkok-30"
+    },
+    {
+
+      "subType": "CITY",
+      "name": "Mumbai",
+      "safetyScores": {
+        "lgbtq": 47,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 27,
+        "politicalFreedom": 34,
+        "theft": 32,
+        "women": 30
+      },
+      "img_url": "mumbai-30"
+    },
+    {
+
+      "subType": "CITY",
+      "name": "Rome",
+      "safetyScores": {
+        "lgbtq": 47,
+        "medical": 0,
+        "overall": 36,
+        "physicalHarm": 27,
+        "politicalFreedom": 34,
+        "theft": 32,
+        "women": 30
+      },
+      "img_url": "rome-30"
     }
 
   ]
