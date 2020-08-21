@@ -1,5 +1,5 @@
 class SessionsController < ApplicationController
-    skip_before_action :authorized, only: [:new, :create]
+    skip_before_action :authorized, only: [:new, :create, :show]
 
 #   def reset_page_view_cookie
 #     # cookies[:view_count] = nil
@@ -22,6 +22,10 @@ class SessionsController < ApplicationController
       redirect_to new_login_path
     end
   end 
+
+  def show
+
+  end
 
 
   def logout 

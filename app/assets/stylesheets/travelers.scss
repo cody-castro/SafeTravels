@@ -6,6 +6,11 @@
     margin-left: 350px;
 }
 
+.edit-traveler-account {
+    margin-top: 35px;
+    margin-left: 350px;
+}
+
 .form.sign-up {
     margin-top: 15px;
     margin-left: 600px;
@@ -48,10 +53,33 @@
     animation: marquee 20s linear infinite;
 }
 
+
+
+
+  .login-marquee-wrapper-greg {
+    margin-top: 60px;
+    position: relative;
+    width: 100vw;
+    height: 400px;
+    max-width: 100%;
+    overflow-x: hidden;
+    
+}
+
+.login-marquee-contents-greg {
+    position: absolute;
+    white-space: nowrap;
+    will-change: transform;
+    animation: marquee 10s linear infinite;
+    font-size: 100px;
+    font-weight: bold;
+}
+
 @keyframes marquee {
     from { transform: translateX(0); }
     to { transform: translateX(-50%); }
   }
+
   
 
   .delete {
@@ -64,7 +92,14 @@
    .my-trips {
        margin-left: 775px;
        margin-bottom: 175px;
-       margin-top: -515px;
+       margin-top: -766px;
+   }
+
+   .my-photo {
+       margin-left: 370px;
+       margin-top: 75px;
+       margin-bottom: -200px;
+       
    }
 
    .my-info {

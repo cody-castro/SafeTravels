@@ -8,9 +8,9 @@
 
 
 
-Trip.destroy_all
+#Trip.destroy_all
 Destination.destroy_all
-Traveler.destroy_all
+#Traveler.destroy_all
 
 record_hash = {
   "data": [
@@ -377,13 +377,5 @@ record_hash[:data].each do |place|
 end
 
 
-
-50.times do
-Traveler.create(username: Faker::FunnyName.unique.name, dob: Faker::Date.birthday(min_age: 18, max_age: 105), password_digest: Faker::IDNumber.brazilian_citizen_number, about_me: Faker::Hipster.sentence)
-end
-
-25.times do
-Trip.create(destination_id: Destination.all.sample.id, traveler_id: Traveler.all.sample.id, name: "My trip to..." )
-end
 
 puts "Muahahahah they're alive!!!!!!!!"

@@ -1,19 +1,52 @@
+<h1 class="edit-traveler-account">Edit Your Account</h1>
+<div class= "form sign-up">
 <% if flash[:errors] %>
 <% flash[:errors].each do |e| %>
 <%= e %>
 <% end %>
 <% end %>
 
-
 <%= form_for @traveler do |f| %>
-    <%= f.label :username %>
-    <%= f.text_field :username %><br>
-    <%= f.label :Date_Of_Birth %>
-    <%= f.date_field :dob %><br>
 
-<%= f.label :password %>
-    <%= f.password_field :password %><br>
-<%= f.label :about_me %>
-    <%= f.text_area :about_me %><br>
-     <%= f.submit "Save Changes" %>
+<div class="form-fields">
+    <%= f.text_field :username, placeholder: "Username" %><br>
+</div>
+
+<div class="form-fields">
+    <%= f.password_field :password, placeholder: "Password" %><br>
+</div>
+<div class="form-fields">
+    <%= f.text_area :about_me, placeholder: "Tell us a little about yourself..." %><br>
+</div>
+<div class="form-submit">
+     <%= f.submit "Update Account" %>
+</div>
     <% end%>
+<div class="form-fields">
+     <button class="right"><%= link_to "Cancel?",  traveler_path(@traveler)%>
+</div>
+
+</div>
+
+<div class= "login-marquee-wrapper">
+    <div class="login-marquee-contents">
+        <%=image_tag "background_0.jpg", width:400, height:400, alt:"Natural" %>
+        <%=image_tag "background_1.jpg", width:400, height:400, alt:"Natural" %>
+        <%=image_tag "background_2.jpg", width:400, height:400, alt:"Natural" %>
+        <%=image_tag "background_3.jpg", width:400, height:400, alt:"Natural" %>
+        <%=image_tag "background_4.jpg", width:400, height:400, alt:"Natural" %>
+        <%=image_tag "background_5.jpg", width:400, height:400, alt:"Natural" %>
+        <%=image_tag "background_6.jpg", width:400, height:400, alt:"Natural" %>
+        <%=image_tag "background_7.jpg", width:400, height:400, alt:"Natural" %>
+        <%=image_tag "background_8.jpg", width:400, height:400, alt:"Natural" %>
+        <%=image_tag "background_0.jpg", width:400, height:400, alt:"Natural" %>
+        <%=image_tag "background_1.jpg", width:400, height:400, alt:"Natural" %>
+        <%=image_tag "background_2.jpg", width:400, height:400, alt:"Natural" %>
+        <%=image_tag "background_3.jpg", width:400, height:400, alt:"Natural" %>
+        <%=image_tag "background_4.jpg", width:400, height:400, alt:"Natural" %>
+        <%=image_tag "background_5.jpg", width:400, height:400, alt:"Natural" %>
+        <%=image_tag "background_6.jpg", width:400, height:400, alt:"Natural" %>
+        <%=image_tag "background_7.jpg", width:400, height:400, alt:"Natural" %>
+        <%=image_tag "background_8.jpg", width:400, height:400, alt:"Natural" %>
+    </div>
+</div>

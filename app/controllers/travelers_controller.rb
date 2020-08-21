@@ -50,7 +50,7 @@ end
 private
 
 def traveler_settings
-    params.require(:traveler).permit(:username, :dob, :password, :about_me)
+    params.require(:traveler).permit(:username, :dob, :password, :about_me, :img_url)
 end
 
 def find_traveler

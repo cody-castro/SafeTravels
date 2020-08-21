@@ -7,10 +7,12 @@
 <strong>Date Of Birth:</strong> <%= age %><br>
 <strong>About Me:</strong><br>
 <%= @traveler.about_me %>
+
 </div>
+<div class="my-photo"><%= image_tag @traveler.img_url, width: 250 %></div>
 
 <!-- Edit this to direct to a landing page -->
-<br><button class="edit"> <%= link_to "Edit Account?", traveler_path(@traveler), :method => :edit %> </button> <br>
+<br><button class="edit"><%= link_to "Edit Account?", edit_traveler_path(@traveler.id), { :method => :get } %></button><br>
 
 <br><button class="delete"> <%= link_to "Delete Account?", traveler_path(@traveler), :confirm => "Are you sure you want to delete your account!?", :method => :delete %> </button> <br>
 

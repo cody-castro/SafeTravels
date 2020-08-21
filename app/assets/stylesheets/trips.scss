@@ -1,3 +1,23 @@
 // Place all the styles related to the Trips controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+
+.button-delete {
+    background:  #ff4537;
+      font-weight: bold;
+      margin-top: 15px;
+      margin-left: 370px ;
+      width: 80px;
+      height: 40px;
+}
+
+.img-tag {
+    margin-left: 625px;
+    margin-bottom: -80px;
+}
+
+.trip-name {
+    margin-top: 80px;
+    margin-left: 70px;
+    font-size: 40px;
+}
