@@ -23,6 +23,7 @@ def update
 end
 
 def show
+    @trips = Trip.all
 end
 
 

@@ -1,6 +1,6 @@
 class DestinationsController < ApplicationController
 def index
-    @destinations = Destination.all.sort_by &:women
+    @destinations = Destination.all.sort_by &:city_name
     # @destinations = Destination.lgbtq(params[:lgbtq]) if params[:lgbtq].present?
     # @destinations = destination_with_safety
 end

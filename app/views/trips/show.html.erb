@@ -3,6 +3,13 @@ Name of Trip: <%= @trip.name %><br>
 Destination City: <%= @trip.destination.city_name %><br>
 </div>
 <div class="img-tag"><%=image_tag @trip.destination.img_url, width: 700%></div>
-
+<div class = "others">
+Travelers interested in: <strong> <%=@trip.destination.city_name%></strong>
+<% @trips.each do |trip|%>
+<% if trip.destination.id == @trip.destination.id %>
+<p><%= link_to trip.traveler.username, traveler_path(trip.traveler.id) %> - <br><%= image_tag trip.traveler.img_url, width: 100, height: 100 %>
+<% end%>
+<% end%>
+</div>
 <button class="button-delete"><%= link_to "Delete Trip?", trip_path(@trip), :confirm => "Are you sure?", :method => :delete %>
  
