@@ -5,8 +5,56 @@
 
 
 .home {
-        $randomNumber: random(8);
-        background: url("./background_#{$randomNumber}") no-repeat center fixed;    
+
+        background: url("./background_0") no-repeat center fixed;    
+        background-size: cover;
+      }
+
+.home1 {
+       
+        background: url("./background_1") no-repeat center fixed;    
+        background-size: cover;
+      }
+
+.home2 {
+       
+        background: url("./background_2") no-repeat center fixed;    
+        background-size: cover;
+      }
+
+.home3 {
+  
+        background: url("./background_3") no-repeat center fixed;    
+        background-size: cover;
+      }
+
+.home4 {
+       
+        background: url("./background_4") no-repeat center fixed;    
+        background-size: cover;
+      }
+      
+.home5 {
+       
+        background: url("./background_5") no-repeat center fixed;    
+        background-size: cover;
+      }
+
+.home6 {
+       
+        background: url("./background_6") no-repeat center fixed;    
+        background-size: cover;
+      }
+
+.home7 {
+       
+        background: url("./background_7") no-repeat center fixed;    
+        background-size: cover;
+      }
+      
+.home8 {
+       
+        background: url("./background_8") no-repeat center fixed;    
         background-size: cover;
       }
 
