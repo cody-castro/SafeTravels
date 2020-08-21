@@ -7,7 +7,7 @@
       background:  #ff4537;
       font-weight: bold;
       margin-top: -225px;
-      margin-left: 20px ;
+      margin-left: 300px ;
       width: 80px;
       height: 40px;
 }
@@ -25,7 +25,7 @@
 }
 
 .others {
-    margin-top: -480px;
+    margin-top: -580px;
     margin-left: 75px;
     width: 300px;
     border: 2px solid black;
@@ -42,4 +42,19 @@
 
 .others  p img{
     margin-left: 75px;
+}
+
+.stat-title {
+    margin-left: 300px;
+}
+
+.stat-left {
+    margin-left: 150px;
+    margin-top: 10px;
+
+}
+
+.stat-right {
+    margin-left: 450px;
+    margin-top: -60px;
 }

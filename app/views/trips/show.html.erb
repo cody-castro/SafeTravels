@@ -2,7 +2,22 @@
 Name of Trip: <%= @trip.name %><br>
 Destination City: <%= @trip.destination.city_name %><br>
 </div>
+
 <div class="img-tag"><%=image_tag @trip.destination.img_url, width: 700, height: 437%>
+
+<div class="stat-title"><strong>Safety Rating:</strong> <br></div>
+<div class="stat-left">
+<strong>LGBTQ+:</strong> <%= @trip.destination.lgbtq   %><br>
+<strong>Medical:</strong> <%=  @trip.destination.medical %><br>
+<strong>Overall:</strong> <%= @trip.destination.overall %><br>
+</div>
+<div class="stat-right">
+<strong>Physical Harm:</strong> <%= @trip.destination.physical_harm %><br>
+<strong>Political Freedom:</strong> <%= @trip.destination.political_freedom %><br>
+<strong>Theft:</strong> <%= @trip.destination.theft %><br>
+<strong>Women:</strong> <%= @trip.destination.women %><br>
+</div>
+
 <button class="button-delete"><%= link_to "Delete Trip?", trip_path(@trip), :confirm => "Are you sure?", :method => :delete %>
 </div>
 <div class = "others">
