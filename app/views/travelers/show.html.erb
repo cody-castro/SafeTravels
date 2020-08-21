@@ -20,6 +20,9 @@
 <h1>My Trips</h1>
 <% if @traveler.trips.count > 0%>
     <% @traveler.trips.each do |trip| %>
+    <% if trip.name == ""%>
+    <% trip.name = trip.destination.city_name %>
+        <% end%>
         <p><%= link_to trip.name, trip_path(trip) %></p>
          <%= image_tag trip.destination.img_url, width: 100 %>
     <% end%>
