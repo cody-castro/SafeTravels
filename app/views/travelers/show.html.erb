@@ -9,7 +9,7 @@
 <%= @traveler.about_me %>
 
 </div>
-<div class="my-photo"><%= image_tag @traveler.img_url, width: 250 %></div>
+<div class="my-photo"><%= image_tag @traveler.img_url, width: 250, height: 250 %></div>
 
 <!-- Edit this to direct to a landing page -->
 <br><button class="edit"><%= link_to "Edit Account?", edit_traveler_path(@traveler.id), { :method => :get } %></button><br>
