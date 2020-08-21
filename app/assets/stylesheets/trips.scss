@@ -3,32 +3,43 @@
 // You can use Sass (SCSS) here: https://sass-lang.com/
 
 .button-delete {
-    background:  #ff4537;
+      //position: relative;
+      background:  #ff4537;
       font-weight: bold;
-      margin-top: 15px;
-      margin-left: 370px ;
+      margin-top: -225px;
+      margin-left: 20px ;
       width: 80px;
       height: 40px;
 }
 
 .img-tag {
+    margin-top: 30px;
     margin-left: 625px;
     margin-bottom: -80px;
 }
 
 .trip-name {
-    margin-top: 80px;
+    margin-top: 30px;
     margin-left: 70px;
     font-size: 40px;
 }
 
 .others {
-    margin-top: -400px;
+    margin-top: -480px;
     margin-left: 75px;
-  
+    width: 300px;
+    border: 2px solid black;
+    background: rgba(0, 0, 0, 0.397)
    
 }
+
+
 .others p a{
     color: black;
+    margin-left: 75px;
    
+}
+
+.others  p img{
+    margin-left: 75px;
 }
